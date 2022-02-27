@@ -1,0 +1,824 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The proud pharisee reproved: or, the lying orator laid open. In an examination of some passages in a book, entituled, precepts for Christian practice, or, the rule of the new creature new model'd. Written by one Edw. Reyner, who calles himself a minister of the Gospel in Lincoln; but is found a lyar / by a Child of the light, who is known to the world by the name of Martin Mason.</title>
+            <author>Mason, Martin, fl. 1650-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 134 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89640</idno>
+            <idno type="STC">Wing M933</idno>
+            <idno type="STC">Thomason E851_6</idno>
+            <idno type="STC">ESTC R207419</idno>
+            <idno type="EEBO-CITATION">99866469</idno>
+            <idno type="PROQUEST">99866469</idno>
+            <idno type="VID">118744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118744)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E851[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The proud pharisee reproved: or, the lying orator laid open. In an examination of some passages in a book, entituled, precepts for Christian practice, or, the rule of the new creature new model'd. Written by one Edw. Reyner, who calles himself a minister of the Gospel in Lincoln; but is found a lyar / by a Child of the light, who is known to the world by the name of Martin Mason.</title>
+                  <author>Mason, Martin, fl. 1650-1676.</author>
+               </titleStmt>
+               <extent>[4], 55, [1]   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year, 1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Reyner, Edward.  Precepts for Christian practice.</note>
+                  <note>Annotation on Thomason copy: "Aug. 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reyner, Edward, 1600-1668. --  Precepts for Christian practice --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118744:1" rendition="simple:additions"/>
+            <p>THE PROUD PHARISEE Reproved: OR, <hi>The lying Orator laid open.</hi> IN AN EXAMINATION OF Some Paſſages in a Book, Entitu<g ref="char:EOLhyphen"/>led,
+<hi>Precepts for Chriſtian Practice, Or, The Rule of the New Creature New Model'd.</hi> Written by one <hi>Edw. Reyner,</hi> who calles himſelf a Miniſter of the Goſpel in <hi>Lincoln;</hi> But is found a Lyar by a Child of the Light, who is known to the World by the Name of <hi>Martin Maſon.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1655.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:118744:2"/>
+            <pb facs="tcp:118744:2"/>
+            <head>To my Friends and Acquain<g ref="char:EOLhyphen"/>tance in the Fleſh in
+<hi>Lincoln,</hi> who yet love the <hi>Garlick</hi> and <hi>Onions</hi> of
+<hi>Egypt,</hi> better than the <hi>Milk</hi> and <hi>Hony</hi> of
+<hi>Canaan.</hi>
+            </head>
+            <p>
+               <hi>I</hi> Am not ignorant what Aſperſions will be caſt upon me for writing this enſuing Treatiſe; But I have learnt to paſſe through evil Report and good Report, as a <hi>Deceiver,</hi> and yet true:
+<note place="margin">1 Cor. 6.8.</note>All the Reproaches and perſecutions of the World cannot rob me of my Jewel, of my comfort, of my Crown: And ſo truth be but exalted, I matter not for all the poyſoned Arrowes which Men of Envy ſhoot againſt my Perſon. I can as freely expoſe my naked Breaſt to receive them chearfully, as they are forward to dart them ſpightfully; and when they have done, forgive them freely. All this I can do through Chriſt that ſtrengthens me.<note place="margin">Phil.
+4.13.</note>
+            </p>
+            <p>But come poor hearts, You who lie ſtretching your ſelves upon the Bed of Eaſe, and delight in the broad way you are in, becauſe it gives eaſe and liberty to the fleſh; Tarry there no longer <hi>I</hi> beſeech you; for though the way ſeem right unto you, yet let me tell you, the End thereof are the wayes of Death. And if you will not take my word, Loe I bring you no leſſe than a King for my Surety, even <hi>Solomon</hi> himſelf.
+<hi>Prov. 14.12.</hi>
+               <note place="margin">Rev. 15.3.</note>And if that will not do, here's a greater than He, Chriſt himſelf (the King of Saints) <hi>Math. 7.13.</hi> How many years have you been feeding upon the bare Com<g ref="char:EOLhyphen"/>mons, your Shepherds having no better Paſture for you than their formal Prayers, and Houre-glaſſe Sermons, ſtudied and hammered upon the Anvil of th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir own Imaginations, paint<g ref="char:EOLhyphen"/>ing them over with the pleaſant Title of Chriſts Ordinances; but had their Prayers and preaching proceeded from that pure Fountain of living water, the Trees would have born better fruit: But their connterfeit Coyn can now no longer paſſe for pure Gold; for the light hath diſcovered them.<note place="margin">1 John 5.1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> He that is be<g ref="char:EOLhyphen"/>gotten of God keepeth himſelf, and that wicked One toucheth him not: He that can witneſs this condition, that Man hath his Divine within him; The light is his Guide, and he needs not
+<pb facs="tcp:118744:3"/>
+               <note place="margin">Jer. 27.9. Jude 8. Jer. 23.21. Jer:
+27:10:</note>the dark Lanthorn of an eight and twentie years Dreamer. While you reſt (poor ſouls) where you do, you dwell in darkneſs: come therefore out of <hi>Babylon,</hi> ſeek the good of your own ſouls, and forſake the Prieſts, grope no longer in the dark, loe now its day dote no more upon your filthy Dreamers, who run be<g ref="char:EOLhyphen"/>fore they were ſent, and propheſie lies unto the people: 'tis they who draw you into deluſions, and your ſouls unto deſtruction, if you draw not back from them; for while you go from the pure (the light in your Conſciences) you run into the puddle of mens humane inventions, the ſtreams of the Sea of <hi>Rome:</hi> Own therefore the pure teachings of that pure principle of God within you, the light which convinces you of ſin and evil, when no eye ſees you.
+<note place="margin">Heb: 12:14:</note>Take councel there, and do not fear to be delu<g ref="char:EOLhyphen"/>ded by it; for it will draw you (if you are willing to be led by it) from impurity unto Holineſs, without which no man can ſee God. 'Tis but a <hi>Romiſh</hi> miſt your Teachers caſt before your eyes, when they render the light a deluſion, leaſt it ſhould diſcover to you their Mystery of Iniquity; But the Lord hath a Controverſie with them, and is throwing their <hi>Diana</hi> down; do not you therefore ſet to your ſhoulders to hold it up any lon<g ref="char:EOLhyphen"/>ger, leaſt you be found fighting againſt God.
+<note place="margin">2 Pet: 1:19:</note>But know, we have a more ſure word of Prophecie, whereunto ye do well, that ye take heed, as unto a light ſhining in a dark place, until the day dawn, and the day Starre ariſe in your hearts. Remember you have warning in your life, priſe it.</p>
+            <closer>
+               <signed>Martin Maſon.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118744:3"/>
+            <head>THE Proud Phariſee Reproved. OR, <hi>The Lying Orator laid open.</hi>
+            </head>
+            <p>WHat means the Man to give his Book ſuch a Boaſting Title, as, The Rule of the New Creature new modeld? Were he himſelf in that happy condition a new Creature is, he would have manifeſted more Modeſty and Moderation, and have been cloathed with that ſweet ſmelling Garment of Humility, without which Iewel, no man ſhall ever weare the never fading Crown of Chriſtianity.
+<note place="margin">1 Pet. 1.5.</note>For God reſiſteth the Proud, and giveth Grace to the Humble. O the difference betwixt Truth and Deceit, betwixt the Miniſters of Chriſt and Antichriſt! <hi>Paul</hi> boaſted not of things without his mea<g ref="char:EOLhyphen"/>ſure, but according to the meaſure of the Rule which God had diſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ributed to him, <hi>Paul</hi> ſaid,<note place="margin">2 Cor.
+10.13.</note> 
+               <hi>Let us walk by the ſame Rule.</hi> Was this Rule the writings of the Prophets or Evangeliſts?<note place="margin">Gal. 6.16.</note> Was this Rule any Epiſtle written by ſome of the Apoſtles? Was not
+<hi>Paul</hi> a new Creature when he writ to the <hi>Galathians?</hi>
+               <note place="margin">Acts 13.9.</note> was not <hi>Paul</hi> filled with the Holy Ghoſt? was not the Holy Ghoſt his Rule? Can the Holy Ghoſt be new model'd?
+<note place="margin">Rom. 8.9.</note>Again, <hi>Paul</hi> ſayes,
+<hi>If any man have not the Spirit of Chriſt, he is none of his.</hi> Is that Man a new Creature that hath not the Spirit of Chriſt li<g ref="char:EOLhyphen"/>ving in him? Hath that Man the Spirit of Chriſt living in him, or is he a new Creature, that ſo undervalues that holy ſoul-ſatisfying Spirit, by preferring his own Inventi<g ref="char:EOLhyphen"/>ons before it, by giving that Honour to lifeleſs leaves, that is due to the infinite God of life and love? whether the Spirit of Chriſt be the Rule of a new Creature, yea, or <pb n="2" facs="tcp:118744:4"/>nay, let that ſoul judge in whom the Spirit of Chriſt lives: and whether that Rule can be new model'd by man or not. But what muſt become then of <hi>Edward Reyners</hi> Rule? Let it return from whence it roſe. This is his firſt lie. The world hath a Proverb, 'Tis ill ſtumbling at the Threſhold. He that begins his Book with a lie, is likely to have more of the ſame ſtamp, before he comes to his end. Here I charge him with blaſphemy, let him clear himſelf as he can.</p>
+            <p>In his Title Page he ſtiles himſelf a Miniſter of the Go<g ref="char:EOLhyphen"/>ſpel: but a lyer, and a blaſphemer is not to be truſted. I ſhall therefore with the Lords leave, examine him a little further. His firſt Ordination ſprang from the Romiſh Root, <hi>That foundation being built upon the Sand.</hi> The Man grew aſhamed thereof, and relinquiſhed it, and now de<g ref="char:EOLhyphen"/>rives his Miniſtry from thoſe of his fellowſhip, ſo now he preſumes hee's built upon the Rock: but let him that thinketh he ſtands, take heed leaſt he fall.
+<note place="margin">1 Cor. 10.12.</note>When he proves his Call to be from God, And that thoſe People had pow<g ref="char:EOLhyphen"/>er to make him a Miniſter of the Goſpel, He may then be believed. <hi>Paul</hi> was an Apoſtle not of Men, neither by Man, but by Jeſus Chriſt and God the Father;
+<note place="margin">Gal. 1.1.</note>but <hi>Ea<g ref="char:EOLhyphen"/>ward Reyner</hi> is a Miniſter of Men, and by Man, for he a<g ref="char:EOLhyphen"/>bides not in the Doctrine of Chriſt Jeſus, not by Jeſus Chriſt and God the Father:
+<note place="margin">Mat. 12.33.</note>The Tree is known by its fruit. <hi>Paul</hi> was filled with the Holy Ghoſt: is this Man ſo, that makes lies his refuge?<note place="margin">Iſa. 28.15.</note> 
+               <hi>Paul</hi> ſayes, Ye remember Brethren our Labour and Travel, labouring night and day, becauſe we would not be chargeable to any of you.<note place="margin">1 Theſ.
+2.9.</note> And, even to this preſent houre we both hunger and thirſt, are naked and buffetted, and have no certain dwel<g ref="char:EOLhyphen"/>ling place, and labour working with our own hands, be<g ref="char:EOLhyphen"/>ing reviled, perſecuted, made as the filth of the World, and the off-ſcouring of all things to this day.<note place="margin">1 Cor. 4.11.12</note> Canſt thou <hi>Ed<g ref="char:EOLhyphen"/>ward Reyner,</hi> or any of thy Generation, who preach for Rewards, witneſs ſuch a condition? How often have ye laboured with your own hands night and day, that you might not be chargeable to your Hearers? Have you not <pb n="3" facs="tcp:118744:4"/>certain dwelling places? Inſtead of ſuffering hunger and thirſt, being naked and perſecuted: do you not live in plenty and pomp, never yet taſting of ſuch perſecution as the Apoſtles ſuffered? What contrariety between you and Chriſts Miniſters? The Miniſters of Chriſt Jeſus have the ſpirit of Chriſt: Canſt thou and thy fellow Prieſts witneſs that holy Spirit living within you?
+<note place="margin">James 2.9.</note>Nay, for then you would not pamper your ſelves, and ſatisfie your luſts with the lofty and unrighteous wages ye receive, nor live in reſpect of perſons, and ſo commit ſin, complementing the rich with hat and knee, Sir &amp; Forſooth, but not doing ſo to the poor; are not ſuch partial? Hadſt thou the ſpirit of Chriſt living in thee, (and he that hath not, is none of his) thou wouldeſt not have ſent thy Sonne to the old Popiſh Plantation in
+<hi>Cambridge,</hi> there to be trained up in the Serpentine ſubtlety of
+<hi>Romiſh</hi> Sophiſtry.
+<note place="margin">Rom. 8.9.</note>Would not that expences thy Son there puts thee to, have been bet<g ref="char:EOLhyphen"/>ter beſtowed in putting forth ſome poor fatherleſs Chil<g ref="char:EOLhyphen"/>dren to honeſt Trades?
+<note place="margin">2 John 9.</note>Hadſt thou the Spirit of Chriſt living in thee, thou wouldeſt abide in his Doctrine, and not inſtead thereof teach the Traditions of Men, nor ſuf<g ref="char:EOLhyphen"/>fer Drunkards, ſwearers, lyers, proud perſons, and ſuch like, to ſing <hi>Davids</hi> Pſalms in thy Aſſembly, as they do, and thou never reprove that ſinful practice, which is not to the prayſe and glory of God. Didſt thou ſpeak from that pure Spirit, thou wouldeſt not uſe ſuch long vain glorious Prayers as thou doſt, nor limit that holy One to thy Houre-glaſſe.<note place="margin">2 Tim. 1.1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. I deny not the Relation of Maſter and Servant; but that in Men, which would be called Ma<g ref="char:EOLhyphen"/>ſter by thoſe that
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve them not, is of the Serpent and accurſed.</note> Nor call ſprinkling Infants the Baptiſme of Chriſt, or a peece of bread and a little wine, Sacra<g ref="char:EOLhyphen"/>ments: where is the precept or precedent in all the Bible for that practice of ſprinkling Children? where doſt thou read that unſavory word Sacrament in all the Scriptures? Art thou a Miniſter of Chriſt, who holdeſt not faſt the form of ſound words, who calles men Maſters, whom thou ſerveſt not, and art ſo called by others, contrary to the Commands of Chriſt: if thou art one of Chriſt Diſ<g ref="char:EOLhyphen"/>ciples, that of <hi>Math.</hi> 23.10. is a Command to thee. When did Chriſt repeal that precept after he comman<g ref="char:EOLhyphen"/>ded
+<pb n="4" facs="tcp:118744:5"/>it? and when didſt thou refuſe that word? Now whether thou art a Miniſter of the Goſpel, yea or nay, let all who love and live in the Goſpel, judge.</p>
+            <p>I cannot paſſe by another peece of notable Policy of this painted Preacher: he hath playd the Thief, and rob<g ref="char:EOLhyphen"/>bed <hi>Paul</hi> very ſmoothly, who in <hi>Gal.</hi> 6.16. ſayes, <hi>As ma<g ref="char:EOLhyphen"/>ny as walk according to this Rule, Peace be on them, and Mercy, and upon the Iſrael of God:</hi> This Proof the Man p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts into the Title Page of his Book, As who ſhould ſay, His Book was as perfect a Rule for people to walk by, as <hi>Pauls</hi> was: A preſumptuous Phariſee verily he is, yet let him take this along with him,
+<note place="margin">Mat. 5.20.</note>
+               <hi>Except his Righteouſneſs ex<g ref="char:EOLhyphen"/>ceed the Righteouſneſs of the Scribes and Phariſees, He ſhall not enter into the Kingdom of God. Pauls</hi> Rule was no Book or Writing with Pen and Inck, but the Holy Ghoſt.
+<note place="margin">Till thou owneſt the light.</note>Poſt thou compare thy Babel Bundle, thy <hi>Babyloniſh</hi> Book, to the Spirit of Chriſt, which was <hi>Pauls</hi> Rule. Neither thou, nor any of thy Hearers, while they give ſuch prehemi<g ref="char:EOLhyphen"/>nence to thy Papers, and believe thy lies, ſhall ever wir<g ref="char:EOLhyphen"/>neſs, nor ſhall ever finde, that peace and mercy which
+<hi>Paul</hi> pronounced in that Epiſtle.</p>
+            <p>And now I come to thy Epiſtle Dedicatory, wherein thy Language diſcovers thee what Nation thou art of.
+<note place="margin">Is not bend<g ref="char:EOLhyphen"/>ing and bow<g ref="char:EOLhyphen"/>ing of the bo<g ref="char:EOLhyphen"/>dy a worſhip<g ref="char:EOLhyphen"/>ping with the body. Joh. 5.41, 42. Pſal. 4.4. All Authori<g ref="char:EOLhyphen"/>ty that is of God I own: &amp; him that does Juſtice, my heart loves,
+<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ugh I give him not the Worlds flat<g ref="char:EOLhyphen"/>tering Lan<g ref="char:EOLhyphen"/>guage.</note>A <hi>Roman</hi> thou art, though an
+<hi>Engliſhman</hi> born; for thou writes thus, <hi>To the right Worſhipful, the Mayor and Al<g ref="char:EOLhyphen"/>dermen, &amp;c.</hi> He that runs may read thee a <hi>Babylonian.</hi> Is not all Honour, Glory, and Worſhip due to God alone? what Worſhip is then left for thy Mayor and Aldermen? Is not God only to be worſhipped? where is thy warrant in the Scriptures for giving them or any one ſuch a Title? Did ever any of the Prophets or Apoſtles, give that Title unto any perſon? Did not Chriſt himſelf (a true pattern for all the pure in heart) ſay I receive not Honour from men: and, How can ye believe that receive Honour one of an<g ref="char:EOLhyphen"/>other, and ſeek not the Honour that is of God onely? But thy heart is corrupted with flattery, and therefore canſt not follow Chriſt. Commune with thy own Heart, and ſee the end of thy giving that Title to that People; Is it not to flatter and pleaſe proud fleſh that delights <pb n="5" facs="tcp:118744:5"/>therein? I know it is; and that thou knowes, it would croſs proud fleſh to want ſuch proud titles, and thou dares not take up the croſs therein; and the Principle of God within thee is my witneſs in this particular. <hi>Solomon</hi> ſaies tis not good to have reſpect of perſons, for, for a peece of bread that man will tranſgreſs.
+<note place="margin">Prov. <hi>28, 21.</hi> Iames. <hi>2.9.</hi> Rom.
+<hi>2.11.</hi> I honour him in my heart whoſe love is to the Lord, be he rich or poore, in Authority or not, though my hand move not my hat, Iob
+<hi>32.21.22.</hi>
+               </note>And <hi>Iames</hi> ſaies It ye have reſpect to perſons ye commit ſin: and <hi>Paul</hi> ſaies, There is no reſpect of perſons with God. Yet I honour all men in the Lord, and out of him I honour no man. Doth true honour conſiſt in ſuch hollow, deceitfull, unwarrantable titles, inventions of the beaſt as are given by the world one to another?
+<note n="*" place="margin">Is not your Lordſhip, your Honour, your Worſhip, and the like; a flattering Title Eſter <hi>3.2.</hi>
+               </note>How contrary art thou to <hi>Elihu</hi> who ſaid Let me not accept of any mans perſon, neither let me give flattering titles unto man. for I may not give flattering titles unto man, in ſo doing my Maker would ſoone take me away: And <hi>Mordecai</hi> he would not bow unto <hi>Haman</hi> though the Darling of a King.<note n="*" place="margin">Mind that, you idolatrous and diſſembling complementers who are bow<g ref="char:EOLhyphen"/>ing to and ſaw<g ref="char:EOLhyphen"/>ning on one a<g ref="char:EOLhyphen"/>nother when in your hearts you are fit to mur<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r one another Pſal. <hi>2.</hi>
+               </note> But while thou feeds thy Magiſtrates with ſuch food as their crazie, carnall, ſto<g ref="char:EOLhyphen"/>macks gape after; while thou feaſts them with ſuch fare, I ſay thou fattens the enemie, and pines the pure, but read thy reward and take it with thee. The Lord ſhall cut off all flattering lips, and the tongue that ſpeaketh proud things, <hi>Pſal.</hi> 123.</p>
+            <p>Thou tells them: Full 28 years are run out ſince thou was called to this City by the general vote of all the godly in it. It ſeems this was all the call thou had'ſt: the vote of men.</p>
+            <p>Thy confeſſion makes it manifeſt thou had'ſt no call from God: How haſt thou proved thy generall vote of all the godly in this Citty? Muſt thy bare word be taken when thou haſt already been proved a lier? Was there not one whoſe heart was towards the Lord? not one Child of God in all the Citty but thoſe that gave their vote to thee? The Baptized people will not credit thee in this thing, but look upon it as an uncharitable cenſure, a preſumptuous <hi>Boaſt,</hi> and will ranck it amongſt the reſt of thy Lies.</p>
+            <p>Full 28 yeares are run out, <hi>&amp;c.</hi> all which time toge<g ref="char:EOLhyphen"/>ther with my ſpirits and ſtrength I have pent amongſt you, and upon you, but for about 2 yeares in the heat of <pb n="6" facs="tcp:118744:6"/>the late unhappy broyles, when the good hand of provi<g ref="char:EOLhyphen"/>dence removed me to a Citty of Refuge to wit <hi>Norwich.</hi>
+            </p>
+            <p>Thou art Maſter of thy Trade. A ſmooth tongue, oylie words thou wanteſt not. But this will not doe, thy var<g ref="char:EOLhyphen"/>niſh muſt be waſht off, under this painted ſtufflies Poy<g ref="char:EOLhyphen"/>ſon. Haſt thou ſpent 26 yeares upon thoſe to whom thy book is dedicated, with thy <hi>Spirits and ſtrength?</hi> whats that which ſpeaks ſo luſtily in the Pulpit, and walks ſo lively in the ſtreets? Is it not <hi>Edward Reyner</hi> his own ſelf? Hath the Mayor and divers more to whom thou dedi<g ref="char:EOLhyphen"/>cates thy book lived
+26 yeares in <hi>Lincolne?</hi> If they have not (and I am ſure tis ſo) how haſt thou ſpent thy ſpirits and ſtrength amongſt them, and upon them all that time? Beſides haſt thou had no journeys out of the Citty in all theſe 26 yeares? Haſt thou ſpent none of that time in bow<g ref="char:EOLhyphen"/>ling, muſick, feaſting at home or abroad? If thou confeſſeſt, then that time was not ſpent upon thy freinds, for the good of their Souls, whilſt thou was Pampering thy own body <hi>Dives</hi> like with dainty fare and carnall paſtimes not becoming a Miniſter of the Goſpell. But if thou denies this, many in <hi>Lincoln</hi> can witneſs againſt thee. So that, turne which way thou wilt, the hand of the Lord is againſt thee, thou art found out a lyer in this particular alſo.</p>
+            <p>
+               <note place="margin">Wee to the I<g ref="char:EOLhyphen"/>doll Shepheard that leaves the Flock &amp;c. <hi>11</hi> Zecha. <hi>17.</hi> verſe.</note>Then thou talks of the good hand of providence, &amp;c. Deale honeſtly with thy own heart: was it the good hand of Providence, or the left hand of ſlaviſh feare and ſelf ends that made the Hireling leave his Flock when the Wolf came? What an unkind requitall did'ſt thou make them for their generall vote to preach amongſt them? Was thou ſo honeſt or ſo hardy, to ſtay and deſire their generall vote to leave them? Was there not many a Soul in that Citty who thought well of thee, yet knew not of thy flight till the Bird was flowne.</p>
+            <p>
+               <note place="margin">Hee's blind, that ſees not this to be Blaſ<g ref="char:EOLhyphen"/>phemy.</note>Thou goes on calling an Abridgment of thy Doctrine, heart renewing, life reforming, ſoule ſaving truths. Here's three lies in a little roome: canſt thou prove that the Bi<g ref="char:EOLhyphen"/>ble much leſs thy Babell book can renew the heart, re<g ref="char:EOLhyphen"/>forme the life, and ſave the ſoule of any ſinner: Is it not the living God alone can do theſe things? The leaeſt Child
+<pb n="7" facs="tcp:118744:6"/>in the Schoole of Chriſt that reads this ſtuff of thine, ſees thy ſottiſh error, but 'tis juſt that thy lying ſpirit ſhould be laid open. O that ever ſuch a lying man as thou art ſhould take upon him the name of a Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel! What a Saviour is it which thou truſteſt in? cannot he renew the heart, reforme the life, and ſave the ſoule? Then ſurely thou art in a ſad condition, being ſo great a ſinner, and haſt ſo lame a Saviour. But if he can, then ſee what wrong haſt thou done him to make a meere uſeleſs Cypher of him, and place ſalvation in printed leaves, and abominable lies. But this makes it manifeſt, thy heart is not renewed, nor thy life reformed, nor thy ſoule ſaved, were it ſo, thou would'ſt not have printed ſuch dark Po<g ref="char:EOLhyphen"/>piſh ſtuff in ſuch a time as this, when light breaks forth in aboundance.</p>
+            <p>Soone after thou begs leave of them, to leave that little Peice of thine, in their hands as a light to guide them, &amp;c.</p>
+            <p>
+               <note place="margin">
+                  <hi>John</hi> 8.12. <hi>John.</hi>
+19.</note>Chriſt Jeſus is the light of the world: does not he in<g ref="char:EOLhyphen"/>lighten every one that comes into the world? is he a per<g ref="char:EOLhyphen"/>fect light or not? wilt thou ſay there is imperfection in Chriſt Jeſus?
+<note place="margin">
+                  <hi>Luke</hi> 1. 79. <hi>John.</hi> 16.13. 2
+<hi>Pet.</hi> 1.19.</note>What need is there of thy dark Lanthorne, when the glorious Sun it ſelf ſhines ſo comfortably? doth not Chriſt give light to them that ſit in darkneſs, and in the ſhadow of death, and guide their feet into the way of Peace: And John ſaith, when the ſpirit of truth is come, he will guide you into all truth, and <hi>Peter</hi> ſaies we have a more ſure word of Prophecy whereunto ye do well that ye take heed as unto a light that ſhineth in a dark place, untill the day dawne, and the day ſtar ariſe in your hearts. Away thou blind guide! that book which thou begs leave to leave with them as a light to guide them, will lead all ſuch as are guided by it, into the ditch: theres a multitude of lies, contradictions, falſe doctrine and blaſ<g ref="char:EOLhyphen"/>phemies in it, of the Serpents invention, mixt and inter<g ref="char:EOLhyphen"/>woven with ſeverall places of Scripture, which thou wreſts and perverteſt, explicating of them according to that de<g ref="char:EOLhyphen"/>ceitfull principle that is predominant within thee, there<g ref="char:EOLhyphen"/>by hoping more plauſibly to put off thy counterfeit ware and falſe doctrine for current truth, but the light hath
+<pb n="8" facs="tcp:118744:7"/>diſcovered thy deluſions, and thou art ſeene and judged.</p>
+            <p>Is thy book able to preſerve from errors in opinion, and looſeneſs in converſation as thou hinteſt? does not that which guides into all truth, preſerve from all errors in o<g ref="char:EOLhyphen"/>pinion and looſneſs in converſation?<note place="margin">
+                  <hi>John</hi> 16.13.</note> and is it not the ſpirit of Chriſt that guides into all truth? O the impu<g ref="char:EOLhyphen"/>dency of this Antichriſtian Miniſter,<note place="margin">Would be not fain be counted infallible?</note> that dares thus ar<g ref="char:EOLhyphen"/>rogate and aſſume that to him and his lying Legend, which is onely due to the infinite God of life and love! does not this clearly demonſtrate that the Papall honour is eagerly purſued by this purblind Preiſt?<note place="margin">Children of the night may be miſled, but the Children of the day do diſcern them.</note> But this doting Dreamer is through the goodneſs of God, diſcovered to be a twig ſprung from the root of old Antichriſt, and there's none but Bats<g ref="char:punc">▪</g> and Owles will beleive the lies and blaſphemies which he hath written in his book.</p>
+            <p>At laſt he concludes his Epiſtle with a lying comple<g ref="char:EOLhyphen"/>ment,
+<hi>I am your ſervant,</hi> (Hypocriſy is ſpun with a fine thred) and yet thou ſuffers them to call thee Maſter: thou painteſt thy ſelf with
+<hi>Pauls</hi> language, as if thou had'ſt been and ſtill wert deſirous to ſeek them not theirs; and willing to ſpend, and to be ſpent for them: bluſh and be a<g ref="char:EOLhyphen"/>ſhamed of thy deceitfull myſtery; art thou guided by that pure principle, that unerring ſpirit which <hi>Paul</hi> was?<note place="margin">That of God in thee knowes thou lyeſt.</note> haſt thou that pure love to thy Auditory which he had to his Corinthians? be aſhamed thou Hypocriticall lying blaſ<g ref="char:EOLhyphen"/>phemous man, &amp; repent, repent:
+<note place="margin">Hints that.</note>Now I am come to <hi>Edm: Calamies</hi> Epiſtle, or approbation &amp; commendation of this mans doctrine, who hints that <hi>Edw: Reyner</hi> is excellent in picking out choyce ſubjects to write upon (are lies, con<g ref="char:EOLhyphen"/>tradictions &amp; blaſphemies, ſuch choyce ſubjects to write on?) &amp; to write much in a little; the man indeed hath writ three groſſe lies in three lines in his Epiſtle Dedicatory, where he calls an abridgment of his doctrine, Heart-re<g ref="char:EOLhyphen"/>newing, life-reforming, ſoule ſaving truths: there is much Antichriſtian deceit diſcovered in that little Letter.</p>
+            <p>He goes on ſaying, The ſubjects he (viz: <hi>Edward Reyner</hi>) treats on, are very uſefull, ſeaſonable and ſpirituall, (but tis in advancing of Antichriſt and his Kingdom): And his manner of handling them very ſolid, ſubſtantiall, accurate <pb n="9" facs="tcp:118744:7"/>and ſuccinct and calls it much plaineneſs and much ſatis<g ref="char:EOLhyphen"/>faction to the godly learned. But babes and ſucklings in Chriſtianity, diſcerne this Orator to be a lying wretch; He ſaies, I have read it, conſidered it, and approved it, (more ſhame for thee! but <hi>Simeon</hi> and <hi>Levi</hi> will take part one with another) and ſo he hopes will every juditious and pious Reader. But the hope of an hypocrite ſhall periſh. See how one Preiſt paints another with flattering com<g ref="char:EOLhyphen"/>mendations, he ſaies <hi>Edward Reyner</hi> will appeare like <hi>Bezaliell</hi> and <hi>Aholiab</hi> who were fill'd with wiſdom of heart to work all manner of work of the cunning work<g ref="char:EOLhyphen"/>man, &amp;c. Were they fil'd with more wiſdom of heart, than this Fox is with deceitfullneſs? A cunning workman he is ſeene to be, but the Myſtery of his iniquity is laying open: Read it, ſaith <hi>Edmond Calamy,</hi> and it will make thee very holy here, and perfectly happy hereafter. Is not this a Chicken of the <hi>Serpents</hi> hatching? can lies, con<g ref="char:EOLhyphen"/>tradictions, and blaſphemous Doctrine make very holy here, and perfectly happy hereafter. And now he con<g ref="char:EOLhyphen"/>cludes with an old Sacerdotal Complement, Your Servant in the work of the Miniſtry. Your Teacher, thou mighteſt more truly have ſaid, in the Myſtery of Iniquity: His Let<g ref="char:EOLhyphen"/>ter is ſhort, but I cannot ſay ſweet, yet he hath a notable faculty of writing much in a little, many filthy lies are laid down in his little letter. <hi>Babylon</hi> he loves, <hi>Babylon</hi> he lives in, and in <hi>Babylon</hi> I leave him. The God of life and love be merciful unto him.</p>
+            <p>The next thing I meet with, is, <hi>Edward Reyners</hi> Preface to the Reader, where he ſayes: After ſerious conſidera<g ref="char:EOLhyphen"/>tion and conſultation with fleſh and blood: what, con<g ref="char:EOLhyphen"/>ſult with fleſh and blood about the things of God? Did <hi>Paul</hi> ſo?
+<note place="margin">
+                  <hi>Gal.</hi> 1.16.</note>Nay, he conferred not with fleſh and blood, but it ſeems thou didſt, whether <hi>Paul</hi> or thee bet<g ref="char:EOLhyphen"/>ter deſerves the Name of a Miniſter of the Goſpel in this particular, let the wiſe man judge. Yet thou ſayes thou found thy heart inclined, thou hopes, by the good hand of God, to take thoſe ten Rules into ſecond thoughts, upon two grounds eſpecially; That in the review of them, they appeared to thee too ſhort and defective: The other was
+<pb n="10" facs="tcp:118744:8"/>that notwithſtanding the tenuity, and imperfection of them, God hath as thou was informed (its likely by ſuch flatterers as
+<hi>Calamy</hi>) made them inſtrumental for the good of others.</p>
+            <p>But it is the good hand of God to make it clear; thy hope was the hope of an Hypocrite, deſiring to ſeem what thou wert not, a Miniſter of the Goſpel. Hadſt thou been a true Miniſter of the Goſpel, thou wouldeſt not have conſulted with fleſh and blood. Thou couldeſt not have preached that which was defective, and imperfect; did ever any of the Apoſtles deliver ſuch Doctrine as thou haſt done? How wert thou guided? by what Rule? not by that Rule which <hi>Paul</hi> was. Could the Holy Ghoſt give out that which was defective and imperfect? Wilt thou make that pure ſpirit the Authour of that filthy Book? He that is ſo weak as to believe thee, or thy Dreams, is not guided by wiſdom; ſo I pitty him. Thou beſeeches the Reader, to take thy ten Rules out of thy Book into his boſom. Thy meaning is, to believe and practiſe them. What? believe lies, contradictions, and blaſ<g ref="char:EOLhyphen"/>phemies, live and die in ignorance? They have little rea<g ref="char:EOLhyphen"/>ſon to anſwer thy requeſt otherwiſe, than, Get thee behind me Satan.</p>
+            <p>
+               <note place="margin">
+                  <hi>John</hi> 16.13. 1 <hi>John</hi>
+3.9.</note>What if a man could repeat all the Bible, thats larger, and better then thy Book, yet if the Vnction within, the ſpirit of Chriſt live not in him, all will avail him nothing. If that ſeed remain not in him, how can he be guided into all truth, how can he keep himſelf, and not ſin? Pen and Inck ſhall never make a ſinner become a Saint:
+<note place="margin">Calling it a Deluſion, and they that are guided by it, thou counteſt deluded.</note>The true Rule (but not thy ten Rules) will, (if obſerved) keep from wandring, ſtumbling, falling, and halting: But thou art not yet in the way to Heaven; for Chriſt is the way, He is the light, and him thou loveſt not, but to thy pow<g ref="char:EOLhyphen"/>er doſt perſecute him, both in print and Pulpit: He is the Guide into all truth, and him thou followeſt not, but fly<g ref="char:EOLhyphen"/>eſt from. He is the Rule, and him thou walks not by, but delighteſt in the dark Dungeon of ſelf-inventions;
+<note place="margin">
+                  <hi>Luke</hi> 13.24.</note>The way ſeems to thee ſo narrow and ſtrait, thou dares not <pb n="11" facs="tcp:118744:8"/>
+               <note place="margin">
+                  <hi>Amos</hi> 1.6.</note>ſtrive to enter in, but takes pleaſure in the broad way, be<g ref="char:EOLhyphen"/>cauſe its eaſie to the fleſh. But woe be to them that are at eaſe in the fleſh. Thou art not come to the brideling of the Tongue, witneſs the many lies in thy Book:<note place="margin">
+                  <hi>James</hi> 1.26.</note> therefore thy Religion is vain.</p>
+            <p>After <hi>Edmond Calamies</hi> Approbation, and thy Preface, follows a beg'd letter of commendation from one <hi>Thomas Manton,</hi> witneſs his own words towards the latter end of that Epiſtle, which are theſe, <hi>Having thus ſignified, and that upon Requeſt, the pleaſure</hi> I <hi>took in this undertaking,</hi> I <hi>take my leave, &amp;c.</hi>
+            </p>
+            <p>Is it the property of a Miniſter of the Goſpel to uſe ſuch left-handed courſes for a commendation? Did ever any of the Apoſtles uſe ſuch a practice? But if thou hadſt ten thouſand ſuch hands to thy Book, as his, they might dazle the eyes of the weak; but not adde one grain of true worth to thy Book, when it comes to be weighed in the ballance.</p>
+            <p>The Flatterer begins in a ſoothing ſtrain, Good Reader, and tells of intimations in Scripture, of a libertine ſpirit, that ſhall prevail in the latter dayes: <hi>That's true.</hi> And how this is accompliſhed by thee, <hi>Manton,</hi> and thy Gene<g ref="char:EOLhyphen"/>tation, all honeſt hearts do ſee to their ſorrow. Who takes more licentious liberty to live in pride, oppreſſion, and ſatisfying the luſts of the fleſh, then the Miniſters of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and their Favorites that maintain them? He talks of a Note found in <hi>Luthers</hi> ſtudy after his death, wherein was written, That within a ſmall ſpace of time, the tem<g ref="char:EOLhyphen"/>per of the world ſhould be for breaking yoaks, (what does that trouble thee? thou ſhews what thou art) inſomuch, that they ſhould not only caſt off the Canons and Tradi<g ref="char:EOLhyphen"/>tions of men, but the very Lawes and Ordinances of God, And that a ſort of men ſhould ariſe, that would be under no other Law and Rule, but their own luſts and inte<g ref="char:EOLhyphen"/>reſts.</p>
+            <p>It ſeems <hi>Manton</hi> and <hi>Edward Reyner</hi> are ſory
+<hi>Luthers</hi> words prove ſo true, concerning the caſting off the Ca<g ref="char:EOLhyphen"/>nons and Traditions of men. And no marvel-great is your <pb n="12" facs="tcp:118744:9"/>
+               <hi>Diana,</hi> the Tithes of <hi>England,</hi> or other ſet maintenance inſtead thereof. But it muſt down; for its not a Plant of my Heavenly Fathers planting, and therefore ſhall be rooted up.
+<note place="margin">
+                  <hi>Heb.</hi> 8.10.</note>Now who is it that caſts off the Law of God written in the Heart, that ſlights the pure Counſel of the living God, the light in the Conſcience; but the Mini<g ref="char:EOLhyphen"/>ſters of the World, and Men of that Generation? preten<g ref="char:EOLhyphen"/>ding to walk by the Scriptures, calling them their rule: yet walk clear contrary to them, and live under no other Law, ſo far as they dare, but their own luſts and intereſts? I know they that are Libertines in opinion, are in the road way to turn Libertines in practice, if there be not ſomething to reſtrain them; But 'tis ſeen who they are, that be Libertines, both in Opinions and practice, an un<g ref="char:EOLhyphen"/>toward Generation of deluding Prieſts, and their flatte<g ref="char:EOLhyphen"/>rers, countenanced at preſent by ſome great Ones in the world, who throwe the
+<hi>Odium</hi> upon the Innocent, But this is no new thing; for Chriſt himſelf was counted <hi>Bel<g ref="char:EOLhyphen"/>zebub.</hi>
+               <note place="margin">
+                  <hi>Mat.</hi>
+12.24.</note>
+            </p>
+            <p>Order and Rule I own, and all ſuch who walk contra<g ref="char:EOLhyphen"/>ry to the Law of God, or any juſt Law made by man, ſuch I utterly diſown, be they Prieſt or People.</p>
+            <p>
+               <note place="margin">
+                  <hi>Dan.</hi> 4.30.31. <hi>Rev.</hi> 18.2.
+<hi>Iſa.</hi> 1.20.</note>Thus having paſt the Porch, I am entred into the Pa<g ref="char:EOLhyphen"/>lace, <hi>Babylon</hi> or building, which this <hi>Nebuchadnezer</hi> hath built by the might of his Power, for the honour of his Majeſty, as he vain gloriouſly hath conceited. But this mans Kingdom is departed from him,
+<hi>Babylon</hi> is fallen, is fallen, The mouth of the Lord hath ſpoken it.</p>
+            <p>His firſt Rule is, Be ſenſible of Original corruption, whereby you are deprived of the Image of God, and of Communion with him, and wholly defiled, and depraved in all the powers and parts of ſoul &amp; body, with a prone<g ref="char:EOLhyphen"/>neſs to all evil, and averſeneſs to all good continually, and made ſubject to the wrath of God, to bondage unto ſin and Satan, and to all Gods judgements here and hereaf<g ref="char:EOLhyphen"/>ter.</p>
+            <p>A ſad ſentence, if it were as thou ſayes: but he that runs in the dark may ſtumble. Doſt thou teach another man <pb n="13" facs="tcp:118744:9"/>not to ſteal, and wilt thou play the Thief? Doſt thou preach, and perſwade others to walk by Rule, and wilt thou walk without? where haſt thou brought one proof out of Scripture, for any one of thy expreſſions above mentioned? Is there ſuch a word as Original Corrupti<g ref="char:EOLhyphen"/>on, in all the Bible? How dares thou thus impudently blaſpheme the infinite goodneſs of the living God, as to ſet him forth, ſo ſevere a God, as to make man ſubject to his wrath, to bondage, to ſin, and Satan, and to all Gods judgements here and hereafter, before he actually com<g ref="char:EOLhyphen"/>mit ſin. How many millions of ſweet innocent Children would this mans Doctrine damn to all eternity? O thou bloody minded, blaſphemous man, bluſh and be aſhamed of this deteſtable Tenet!
+<note place="margin">
+                  <hi>Ezek.</hi> 33.11.</note>Is it not written,
+<hi>As I live,</hi> ſaith the Lord God, <hi>I have no pleaſure in the death of the wicked, but that the wicked turn from his way and live.</hi> Turn ye, turn ye from your evil wayes; for why will ye die, O houſe of
+<hi>Iſrael.</hi> Is there one ſyllable of original ſin men<g ref="char:EOLhyphen"/>tioned in this place? Wilt thou make God a lier like thy ſelf, and forſworn too?
+<note place="margin">
+                  <hi>Ezek.</hi> 13.20.</note>O the height of blaſphemy! Is it not elſewhere ſaid, the Son ſhall not bear the Iniquity of his Father; And again, the ſoul that ſinneth it ſhall die:
+<note place="margin">
+                  <hi>Rom.</hi> 4.15:</note>And where there is no Law, there is no tranſgreſſion: Do not theſe places throwe down the Babel of thy ſoul-de<g ref="char:EOLhyphen"/>ſtroying, God-blaſpheming Doctrine of original ſin? Is not that place fulfilled in thee,<note place="margin">
+                  <hi>Prov.</hi>
+10.19.</note> In the multitude of words there wants not ſin; who but a fooliſh man like thy ſelf, would have brought in that, <hi>Epheſ.</hi>
+2.12.13. for the proof of original ſin. <hi>Paul</hi> in that Chapter ſayes thus, You hath he quickened, who were dead in treſpaſſes and ſins, wherein, in time paſt ye walked according to the Prince of the power of the Aire, the ſpirit that now worketh in the Children of diſobedience. Amongſt whom alſo we had our con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſation in times paſt, in the luſts of our fleſh. Does not he all this time ſpeak of actual ſin? is there one word of original corruption? verſe 11. Remember ſaith he, That ye being in times paſt Gentiles in the fleſh, <hi>&amp;c.</hi> at that time ye were without Chriſt, being Aliens <pb n="14" facs="tcp:118744:10"/>from the Common-wealth of Iſrael, having no hope, and without God in the World: But does <hi>Paul</hi> ſay, this was becauſe of Original ſin? does not the Chapter make it ma<g ref="char:EOLhyphen"/>nifeſt, it was their ſinful lives? Thou ſayes, <hi>Paul</hi> calles this corruption of Nature (which thou counteſt Original ſin) the old man, and body of ſin, <hi>Rom.</hi> 6.6. Is the corruption of Nature named in that verſe? why doſt thou adde to the Scriptures? He ſayes indeed thus, Knowing this that our old man is crucified with him, that the body of ſin might be deſtroyed, that henceforth we ſhould not ſerve ſin. This place ſpeaks of a body of ſin, but does it not imply a living in, and a ſerving ſin? Does it once mention Original ſin? for ſhame man be ſilent, thou brings in <hi>Pauls</hi> war<g ref="char:EOLhyphen"/>fare, A Law in the Members, <hi>&amp;c. Rom.</hi> 7. A ſtate or con<g ref="char:EOLhyphen"/>dition of ſin it does hold forth. A Combate between fleſh and Spirit, betwixt the ſeed of the Woman, and the Ser<g ref="char:EOLhyphen"/>pent; but does it mention that, Original ſin does deprive of the Image of God, and of Communion with him? That original ſin makes ſubject to the wrath of God, and to all his judgements here, and hereafter? Thou brings in (<hi>Pſal.</hi> 51.5.)
+<hi>David</hi> ſaying,<milestone type="tcpmilestone" unit="unspecified" n="Queſt."/> 
+               <hi>Behold I was ſhapen in iniquity, and in ſin did my Mother conceive me.</hi> He makes a deep confeſſion of his ſins,<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> and acknowledges the weakneſs of his Parent. <hi>Behold I was ſhapen in iniquity, and in ſin did my Mother con<g ref="char:EOLhyphen"/>ceive me:</hi> ſhe was a ſinner when I was ſhapen &amp; conceived in her wombe.<note place="margin">1 <hi>Cor.</hi> 2.14. <hi>Gen.</hi>
+40.8. <hi>Iſa.</hi> 29.11.</note> But that ſpirit by which thou art guided, cannot give the interpretation of Scripture: The ſame that gave it forth muſt open it. To thee and thy Generation it is ſealed, but to the Saints it is given to underſtand: Thou asks, Who could ſleep in the night, that carrieth a Toad in his breaſt to bed with him, and ſin is as full of poyſon as a Toad. O minde thy own condition, ſee how many Toads thou beareſt-about thee in thy own breaſt.
+<note place="margin">
+                  <hi>Page</hi> 4.</note>How full of poyſon is the Doctrine thou delivers Of Ori<g ref="char:EOLhyphen"/>ginall ſin, and ſuch like ſtuffe! page
+5. Thou ſayes, Every beloved ſin or Maſter luſt is a <hi>Belzebub,</hi> or Prince of Devils. Ah how many <hi>Belzebubs</hi> doſt thou harbour in thy boſom, as pride, applauſe, deſires of ſilver and gold, and a great e<g ref="char:EOLhyphen"/>ſtate. <pb n="15" facs="tcp:118744:10"/>See if theſe, and a Neſt of ſuch like Serpents be not within thee; if theſe be not the <hi>Dalilahs</hi> thou delighteſt in. Thou ſayes, God joyns pardon of ſin, and power over ſin together, <hi>&amp;c.</hi>
+               <note place="margin">
+                  <hi>Page</hi> 18. <hi>Page</hi>
+21.</note> That ſin makes ugly in Gods ſight, That it kiſſeth and ſtabbeth, putteth out your eyes, cuts your throats, <hi>&amp;c.</hi>
+            </p>
+            <p>Art not thou and thy Generation of Pulpit-talkers, the Devils ſeeds-men, that ſowes his tares among the wheat? his Servants to put off his cheats and falſe counterfeit ware of original ſin, ſprinkling Infants, taking a bit of bread and a ſup of wine, roaring and ſinging in your Sy<g ref="char:EOLhyphen"/>nagogues; Phariſaical Prayers, Hour-glaſſe Oratory, and the like. Do you not with ſuch as theſe kiſſe, and ſtab the people, and with the hony fine names of Chriſts Ordi<g ref="char:EOLhyphen"/>nances, Goſpel-duties, coming to Church, the Baptiſm of Chriſt, and the ſupper of the Lord, which you put upon them, ſting the people to death? for which of them can witneſs the life of a Chriſtian? Do you not by theſe, put out the eyes of the peoples underſtanding, that they ſee not the ſun of righteouſneſs, the light? ſo they live in <hi>E<g ref="char:EOLhyphen"/>gyptian</hi> darkneſs, under the Prieſts their Taskmaſters; Do you not ſet them to grinde at your Mills (as the Philiſtins did <hi>Sampſon</hi>) puts them upon Phariſaical duties at ſet times, coming to your Steeple-houſes, uſing hypocritical prayers, promiſing them liberty, but brings them into ſnares; ſuffering luſts and ſins to lie in their boſom unre<g ref="char:EOLhyphen"/>proved, and cut their throats? do they not draw the people backward from Chriſt, the light of the world in every mans Conſcience? and ſo hales them to Hell, while they think they are going to Heaven. See the end (O friends) of this praying and preaching if it be not to preach up the Prieſts, to make them your Maſters, and you their Ser<g ref="char:EOLhyphen"/>vants, that they may live upon other mens labours. Come but to them on their Market dayes, do as they do, eat, drink and be merry with them in their Idols Temple, and pay them Tithes for their Heatheniſh Oratory, Then they'l account you good Chriſtians; But if you withhold your hand, and draw back, feed them not with Tithes or other allowance; The Prieſts will (<hi>Laban</hi>-like) cry out <pb n="16" facs="tcp:118744:11"/>
+               <note place="margin">
+                  <hi>Gen.</hi> 31.30.</note>wherefore have you ſtolen our Gods? and ſue you at the Law, till by their Ordinance for troble dammages they have drawn blood: But ſurely the eyes of thoſe Gentiles ſhall over long be opened, The dead ſhall hear the voice of the Sonne of God, and live, and no longer be deluded by thoſe doting <hi>Babyloniſh</hi> Dreamers.<note place="margin">
+                  <hi>Acts</hi> 26.19.</note> But the City of <hi>Lin<g ref="char:EOLhyphen"/>coln</hi> hath a paire of proud Phariſees, two ſubtle Antichri<g ref="char:EOLhyphen"/>ſtian Foxes, who pretend they miniſter not for money, yet either of them can diſpence and diſpoſe of one hun<g ref="char:EOLhyphen"/>dred and fifty pounds a year for their vain babling.<note place="margin">
+                  <hi>John</hi> 5.25.</note> They ſeem as if they mattered not Tythes: what need they when they have ſo much mony a year duly payd them without any coſt or care of theirs? Do they not preach the ſame Doctrine, and tread in the ſame ſteps which the tyranni<g ref="char:EOLhyphen"/>zing blood-ſucking Tithemongers do? Do they not ac<g ref="char:EOLhyphen"/>count them their Brethren in the Miniſtery? when do they publiquely preach againſt Tithes, or diſown them in print or Pulpit? Is it enough to mutter out a word or two ſneaking in holes and corners, as if they could not digeſt their unrighteous Mammon? If they are convinced of the unjuſtneſs of the thing; Why do they not proclaim it on the houſe top? In ſo doing they ſhould offend their ungodly Brethren &amp; bar themſelves for the time to come in caſe their preſent pay ſhould be taken from them.</p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 23.</note>The man writes thus; Hare ſin perfectly, &amp; perpetually, then you will not ſpare it but kill it preſently, till ſin be hated, it cannot be mortified. Do they ſo with Tithes and yearly maintenance: hate them perfectly, and thou wilt preach againſt them preſently: O thou teacher of others, firſt caſt out the beam in thy own eye, away with thy Pha<g ref="char:EOLhyphen"/>riſaicall righteouſneſs, begin at Chriſts Croſſe, and prac<g ref="char:EOLhyphen"/>tiſe that unpleaſant Sermon of ſelf-denyal: what ſin ſoever thou loveſt, though it be thy
+<hi>Abſolon,</hi> either the mainte<g ref="char:EOLhyphen"/>nance of thy Son at the ſeminary of Satan, or thy repute of a godly Miniſter, thy lofty wages of unrighteouſneſs, thy deluding the ignorant, and proyheſying lies unto the people, the pampering of thy body with ſuperfluous dain<g ref="char:EOLhyphen"/>ties; what ever it be that is thy <hi>Dalilah,</hi> deal not gently with it, but hate it perfectly and perpetually; for till it be hated, it cannot be mortified.</p>
+            <pb n="17" facs="tcp:118744:11"/>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 28.</note>Now thou art got to thy old trade againe, talking of holy duties, or ordinances, improved as weapons edge<g ref="char:EOLhyphen"/>wiſe to cut and kill your luſts.</p>
+            <p>How theſe unholy duties, and ordinances of thine have cut and killed luſts in thee, or the people, your lives make it manifeſt. Have theſe as Antidotes (for ſo thou hinteſt) expeld the Poyſon of ſin? The impurity of your lives (your luſts being ſtill living) ſpeaks the contrary.<note place="margin">
+                  <hi>Pag.</hi> 302.</note> But ſelf-love as thou ſaies in another place of thy book is a falſe glaſs, which you commonly look your ſelves in, that makes all ſeeme good, you either have or doe. But thy painted language can deceive non but the ſilly:
+<note place="margin">Nahu<g ref="char:cmbAbbrStroke">̄</g>. 3.4.</note>The vi<g ref="char:EOLhyphen"/>zard of the welfavoured harlot muſt be puld off, that her uglineſs may be ſeene and abominated.</p>
+            <p>
+               <note place="margin">Thou ſaies, <hi>A Scriptum eſt,</hi>Thou begins with that which thou calls the word of God, viz. the Scriptures. Thou bids, heare it, read it, As it is written will put ſin and Satan to flight.</note> and hide it in your hearts.</p>
+            <p>
+               <note place="margin">There are words many, but <hi>the Word</hi> is but <hi>one.</hi> Iohn <hi>1.1.</hi>
+               </note>The Scriptures I own more truely than thou does, or a<g ref="char:EOLhyphen"/>ny tithe taking Preiſt in England, yet I deny it to be that which thou calleſt it, but proteſt not.</p>
+            <p>In the beginning was the Word, and the Word was with God, and the Word was God. Are the Scriptures God? Were they in the beginning? Was not
+<hi>Moſes</hi> the firſt Man that writ Scripture? Is it not Chriſt thats cloth<g ref="char:EOLhyphen"/>ed with a veſture dipt in blood, is not his name called the Word of God? Are the Scriptures Chriſt?<note place="margin">
+                  <hi>Rev.</hi> 19 13. 2
+<hi>Pet.</hi> 3.5.</note> Doth not <hi>Paul</hi> ſay, the Word of God is quick, and powerfull, ſharp<g ref="char:EOLhyphen"/>er than any two edged ſword? peircing even to the di<g ref="char:EOLhyphen"/>viding a ſunder of Soule, and Spirit, and of the joynts, and Marrow, and is a diſcerner of the thoughts, and intents of the heart? Can the dead doe all this? Is the letter quick and powerfull? Hath it the vertue force and opera<g ref="char:EOLhyphen"/>tion written in that verſe? Or is it the work of a God? Is any printed book a diſcerner of the thoughts, and in<g ref="char:EOLhyphen"/>tents of the heart? <hi>Peter</hi> ſaies by the Word of God the Heavens were of Old, and the earth ſtanding out of the water, and in the water. Were the Heavens and the earth made by the Scriptures, or by God? <hi>Paul</hi> ſaies every crea<g ref="char:EOLhyphen"/>ture
+<pb n="18" facs="tcp:118744:12"/>of God is good, and nothing is to be refuſed, if it be received with thankſgiving, for it is ſanctified by the Word of God.
+<note place="margin">
+                  <hi>Luke.</hi> 1.1.</note>Can any thing ſanctify a creature, but the Omnipotent God, and Creator of all things?
+<note place="margin">
+                  <hi>2</hi> Iet. <hi>1.2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Whether does he owne the Scripture who calls it his rule and lives con<g ref="char:EOLhyphen"/>trary to it, or he that calls it not ſoe, yet lives according to it?</note>Yet I own the Scriptures as they are, a declaration, a record, the writ<g ref="char:EOLhyphen"/>ings of the holy Men of God, who ſpake as they were moved by the Holy Ghoſt. But I dare not Deifie, or equall them with God, nor pretend to make them my rule, and walk contrary to them, as thou and all thy generation doe.</p>
+            <p>Thy ſecond Antidote, thou calls the Sacraments. A word of an old ſtamp coyned by thy Fore-Fathers at the Romiſh-Mint, which it ſeems thou reſerveſt as a holy Re<g ref="char:EOLhyphen"/>lique for its Antiquity, not for any Sanctity that is in it, I am ſure: Art thou not aſhamed to uſe ſuch ruſty dark language at this time of the day?
+<note place="margin">
+                  <hi>P.</hi> 28.29.</note>Thou ſaies, Sacraments are inſtituted to be inſtruments for conveyance of vertue from Chriſts death into your Soules to mortifie your ſins. (How many ſins can the people truely ſay are mortified in them, by thy Sacraments? If thou wilt not anſwer for them, ſay for thy ſelf, ſpeak and lye not) Channels through which ſtreams of blood flow from the ſides, and heart of Chriſt, into your hearts to carry away your ſins.</p>
+            <p>Name what ſins thou canſt witneſs either of thy owne, or the peoples that are carried away by thoſe pretended ſtreams flowing through the Sacraments. Then thou bids make uſe of Sacraments againſt ſins as men doe of Aſſizes againſt Malefactors, get them condemned and cut off: He that drinks at the pure Fountaine, ſavours thy muddy language to ſtreame from the corrupted Sea of Rome. But all this while thou haſt been talking of Sacraments, thou haſt loſt thy <hi>Scriptum eſt.</hi> What old Authors haſt thou been ranſaking up for this Sacrament all ſtuff. Dares thou come into the feild thus to fight againſt the Lamb, and his Saints, and not bring one weapon out of thy Scripture Magazin to defend thee? How canſt thou hope to return a live to thy Camp? Is the name of a Miniſter, Armour of Proof to ſecure thee? Doſt thou not ſay, the Word is a <pb n="19" facs="tcp:118744:12"/>ſheild to defend you againſt all the aſſaults of Sin, and Sa<g ref="char:EOLhyphen"/>tan, or Batteries of Yentations? The heart fenced with it, thou ſaies, is Cannon Proof. I know thy meaning is the Scriptures. Thou counts it the Word. Ah ſilly blind Soul, that art thus groping in the dark, when the Sun of righteouſneſs ſhines ſo gloriouſly. Art not thou and the people provided of Bibles? How are you defended a<g ref="char:EOLhyphen"/>gainſt the aſſaults of Sin, and Satan? tis ſeene how open you are to the Batteries of tentation. And for all thy flou<g ref="char:EOLhyphen"/>riſhes thy heart is not fenced with one Scripture for all this folly thy tongue hath uttered, concerning thy ſecond An<g ref="char:EOLhyphen"/>tidote. Therefore thou art neither ſword nor piſtoll-proofe, much leſs Cannon-proofe by thy owne con<g ref="char:EOLhyphen"/>feſſion.</p>
+            <p>
+               <note place="margin">
+                  <hi>Prov.</hi> 12.22. <hi>Pro.</hi>
+28.9.</note>Thy third Antidore is, Prayer to God. of the wicked are an abomination to the Lord. To what purpoſe is the multitude of your ſacrifices unto me ſaith the Lord when ye come to appeare before me? who hath required this at your hand, the calling of Aſſemblies I cannot away with: * It is iniquity even the ſolemne meet<g ref="char:EOLhyphen"/>ing, when ye ſpread your hands, I will hide my eyes from you: yea when you make many Prayers I will not heare:<note place="margin">
+                  <hi>Iſaiah</hi> 1.</note> and what's the reaſon of this? your uncleaneneſs: Waſh ye, make ye cleane, put away the evill of your doings from before mine eyes, ceaſe to do evill, learne to do well, ſeeke judgement: <hi>Releive the oppreſſed, judge the Fatherleſs, Plead for the Widdow.</hi> Loe heres work for thee and thy Mayor and Aldermen! O that you would ſet your hearts to doe it! till then, all your Prayers are but vaine babling, till then there is no reaſoning with God. If ye be willing and obedient yee ſhall eate the Fat of the Land, but if ye rebell ye ſhall be devoured with the ſword, for the Mouth of the Lord hath ſpoken it.</p>
+            <p>
+               <note place="margin">
+                  <hi>page</hi> 30.</note>Speaking of the ſpirituall combat, thou ſaies, The life or exerciſe of grace puts ſin to death, in the duell betweene Fleſh and Spirit, as humility doth Pride, and ſincerity doth hypocriſy, (Ah poore Soul that it were ſo with thee) and where there is no oppoſition, there is no re<g ref="char:EOLhyphen"/>ſtraint <pb n="20" facs="tcp:118744:13"/>where there is no contrary Principle of grace to croſs and curb ſin, there ſin overflows like a River without Bancks. Grace thou ſaies will drive out ſin as one pin doth another, yet for all this, page 28 thou calls Duties and Or<g ref="char:EOLhyphen"/>dinances, <hi>Weapons, edgewiſe to cut</hi> and <hi>kill luſts, Antidotes to expell the Poyſon of ſin,</hi> eſpecially the Word that is, ſaies thou, Scriptures (Sacraments and Prayer) for doſt thou not ſay a <hi>Scriptum eſt, As it is written,</hi> will put ſin and Satan to flight?</p>
+            <p>Here thou laies all the weight and power of killing ſin upon duties, ordinances and the letter, and page 30. thou ſaies, 'Tis the life of grace puts ſin to death, and grace will drive out ſin, but what that grace is thou haſt not menti<g ref="char:EOLhyphen"/>oned.
+<note place="margin">1 <hi>Cer.</hi> 12.9.</note>The Lord ſaies to
+<hi>Paul,</hi> my grace is ſufficient for thee. And <hi>Paul</hi> ſaid when
+<hi>Iames, Cephas,</hi> and <hi>Iohn</hi> who ſeemed to be Pillars, perceived the grace that was given unto me, they gave unto me, and <hi>Barnabas,</hi> the right hand of fellowſhip.<note place="margin">2 <hi>Gala.</hi> 2.9,</note> And, by the grace of God I am what I am. And his grace which was beſtowed upon me was not in vaine, but I laboured more abundantly than they all, yet not I but the grace of God which was with me.<note place="margin">2 <hi>Titus</hi>
+12.</note> And the ſame Apoſtle ſaith, that the grace of God that bringeth ſal<g ref="char:EOLhyphen"/>vation hath appeared to all men, teaching us, that denying ungodlineſs and worldly luſts we ſhould live ſoberly righ<g ref="char:EOLhyphen"/>teouſly and godly in this preſent World.
+<note place="margin">a <hi>Scriptum eſt. 2</hi> Cor. <hi>13.3.</hi> You ſeek a proof of Chriſt ſpeaking in me. <hi>1</hi> Iohn <hi>9.</hi> Know ye not that Chriſt is in you? If not, you are Repro<g ref="char:EOLhyphen"/>bates. Hebr.
+<hi>13.5. 1</hi> Tim. <hi>6.9.</hi> The ſeed of ſingularity is</note>Is this grace a<g ref="char:EOLhyphen"/>ny duties, or ordinances, Scripture, or a <hi>Scriptum eſt,</hi> as thou calls it, or Sacraments? Is not this grace <hi>Chriſt Ieſus himſelf?</hi> The light that inlightens every one that comes into the world? even the Myſtery which hath beene hid from ages and generations, but now is made manifeſt to his Saints? Thou goes on uſing many good expreſſions in the Scriptures. I ſhould rejoyce to ſee thee live the life of thoſe that writ them, then would thy converſation be without covetouſneſs. Thou wouldſt ſee, he that will be rich falls into temptati<g ref="char:EOLhyphen"/>on and a ſnare and into many hurtfull and fooliſh luſts which drown men in perdition, and that the love of mony is the root of all evill. Ah friend love thy own ſoul, and
+<pb n="21" facs="tcp:118744:13"/>ſet thy heart no longer upon ſilver and gold, that lofty Sa<g ref="char:EOLhyphen"/>lary thou receiveſt for thy lying Oratory. Do not (for the love of money) delude the ſouls of ſo many as thou doſt, any longer. If thou does, it will be bitterneſs unto thee at the latter end. Thou art diſcovered by the light of God, and condemned by that pure principle of himſelf within thee. As yet thou art rich in thy own conceit, thou haſt built thy neſt high in the Airy wiſdom of the world, which is fooliſhneſs with God, therefore art thou ſent empty a<g ref="char:EOLhyphen"/>way, <hi>Luke</hi>
+1.53. Read <hi>James</hi> 4.6. <hi>Pſal.</hi> 138.6.</p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 34.</note>As for Verboſity, whether that be not a weed in thy own Garden, an error thy ſelf art deeply guilty of, the ve<g ref="char:EOLhyphen"/>ry babes and ſucklings in Chriſt can witneſs againſt thee. In the multitude of words there wanteth not ſin. Thy vain glorious Prayers and Houre-glaſſe Oratory do con<g ref="char:EOLhyphen"/>firm it: but he that refraineth his lips is wiſe.<note place="margin">
+                  <hi>Prov.</hi> 10.19.</note>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 35.</note>Thou bids, Furniſh and fortifie your ſelves with ſpiritu<g ref="char:EOLhyphen"/>all weapons out of Gods Armory againſt your ſpeciall corruptions every morning. Doſt thou not here ſet up the Scriptures to be Gods Armory and ſpiritual Weapons? Where are they called ſo in the Bible? Thou would ſeem to be religious, but how ſhort thou comes of brideling the tongue, thy Verboſity in thy Book, and thy Tautologies in thy Pulpit exerciſes, clearly manifeſt. And therefore is thy Religion vain.<note place="margin">
+                  <hi>James</hi> 1.26.</note>
+            </p>
+            <p>
+               <note place="margin">Let the tender ſpirits feare with me here<g ref="char:EOLhyphen"/>in. I muſt deal with him a lit<g ref="char:EOLhyphen"/>tle in his own Weapon.</note>In the 41. page thou playes the Critick with the <hi>Greek</hi> word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 1
+<hi>John</hi> 3.9. where <hi>John</hi> ſayes, He that's born of God
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> doth not commit ſin, that is, ſayes Thou, He does not work ſin, as a man on his Trade, <hi>&amp;c.</hi> What's thy meaning to carp at the Tranſlators ren<g ref="char:EOLhyphen"/>dering of that word. <hi>Scapula's lexicon,</hi> approves the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>committere peccatum.</hi> He ſhews it to be a word of a various ſignification as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>Servare legem,</hi> and divers others: But thy end is ſeen, and thou art judged herein to be under-propping that which the pure and powerful God of Heaven and Earth is throwing down. So thou canſt not proſper. Read
+<hi>Epheſ.</hi> 4.32. The <hi>Engliſh</hi> runs, <hi>As God for Chriſts ſake:</hi> but ſee if it be not in the Greek, <hi>As God in Chriſt</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Is <pb n="22" facs="tcp:118744:14"/>
+               <note place="margin">The Sophiſter would not ca<g ref="char:EOLhyphen"/>vill at this place, it was not for his pur<g ref="char:EOLhyphen"/>poſe.</note>this truly tranſlated: <hi>But this blind Guid ſtrains at a gnat and ſwallows a Camel, Mat.</hi> 23.24.</p>
+            <p>Page 49. Thou directs them to receive Chriſt as held forth in an Ordinance, to wit, in the Miniſtry of the word, and in the Sacraments. Thou mighteſt have done well to have ſhewne who are the true Miniſters, and what the word is. But I know thy meaning, and do deny thee and thy Generation, (who run before you be ſent, <hi>Jer.</hi> 23.21.) to be Miniſters of Chriſt.
+<note place="margin">
+                  <hi>John</hi> 2.9.</note>All his Miniſters abide in his Doctrine, but ſo do not you, and therefore the Mi<g ref="char:EOLhyphen"/>niſters of Antichriſt you all are. Where doſt thou finde the word Sacrament in the Scriptures? Thou holdeſt not faſt the form of ſound words.<note place="margin">2 <hi>Tim.</hi> 1.13.</note> Prove thy Traditions to be the Ordinances of Chriſt if thou canſt, and that they are appointed as means to convey Chriſt as thou affirmeſt, Or elſe thou art ſo well known, thou mayſt not be truſted.</p>
+            <p>Thou haſt an itching deſire to be counted and received as an Apoſtle, and be eſteemed amongſt thy unbelieving Jews, as <hi>Peter</hi> was amongſt the faithful, and as <hi>Paul</hi> was amongſt the
+<hi>Coloſſians.</hi>
+               <note place="margin">For thou abi<g ref="char:EOLhyphen"/>deſt not in his Doctrine. <hi>2</hi> John <hi>9.10.</hi> witneſs thy preaching of Original ſin, &amp;c.</note> For thou ſayes, He that receives Chriſts Miniſters, receiveth him. But then they muſt not receive thee; for thou art no Miniſter of Chriſt. Thou wouldeſt fain weare the Crown, but cannot carry the Croſſe, yet thou ſayes, They muſt take Chriſt, as Wives do their Husbands, for better or worſe; for richer or poorer. Does not this expreſſion favour of the Popiſh Service-Book?
+<note place="margin">
+                  <hi>P.</hi> 50.</note>Does it not argue, thou ſtill haſt an affection to the Traditions of thy <hi>Romiſh</hi> Fore-Fathers; but ſecretly, for fear of thy Jews?
+<note place="margin">
+                  <hi>Mat.</hi> 19.27.</note>Doſt thou deſerve to be received as a Miniſter of Chriſt like <hi>Peter</hi> and
+<hi>Paul</hi> for this? Canſt thou witneſs thy willingneſs to loſe for Chriſt, as well as to gain; to ſuffer with him, as well as to reign with him? <hi>Peter</hi> could ſay<g ref="char:punc">▪</g> Loe we have left all and followed thee, Canſt thou ſay ſo? Thy <hi>Norwich</hi> journey will riſe up in judgement againſt thee. <hi>Peter</hi> was impriſoned with two Chains.<note place="margin">
+                  <hi>Acts</hi> 12.6.</note> 
+               <hi>Pauls</hi> ſufferings was foreſhewed him, and when ſome heard thoſe things, they wept and beſought him not to go up to <hi>Jeruſalem.</hi> But <hi>Paul</hi> anſwered, what mean ye to weep, and to break my heart; for I am ready not to
+<pb n="23" facs="tcp:118744:14"/>be bound onely, but alſo to die at <hi>Jeruſalem</hi> for the name of the Lord Jeſus: O valiant Champion for Chriſt and his Cauſe! Hadſt thou been, with <hi>Paul,</hi> not ready onely to be bound, but to die for the Doctrine thou hadſt delivered, thou wouldſt have had more colour to have pleaded for <hi>Pauls</hi> Reception; but inſtead of being ready to be bound, thou runs away; inſtead of being willing to die for thy Saviour, thou chuſedſt to live in thy ſins, ſhall ſuch a cow<g ref="char:EOLhyphen"/>ardly Prieſt, claim the priviledge of a <hi>Paul.</hi> Thou talks of erecting Chriſt a Throne, and giving him a Crown and Scepter in your hearts.<note place="margin">Priviledge.</note> Was it Chriſt or Antichriſt that had a Throne erected, and a Crown and Scepter in thy heart, when thou fled from thy flock?<note place="margin">
+                  <hi>P.</hi> 51.</note> Does not Anti<g ref="char:EOLhyphen"/>chriſt reign in the Kingdom of thy heart, while thou pins thy ſheep on thy poor Commons, and poyſons them with thy corrupt Doctrine both in Pulpit and print?</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 61.</note>Thou ſayes, You dwell in Chriſt, and Chriſt in you, as a man in his houſe, and p. 65. Chriſt toucheth the ſoul by his ſpirit; Is not his ſpirit of the eſſence of the Deity? Doſt thou not ſay, p. 72. The ſubſtance of the Deity is incom<g ref="char:EOLhyphen"/>municable?</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 67.</note>Thou queries what kind of union is this between Chriſt and a believer, and thou anſwers, it is a reall or ſubſtantial, total, and ſpiritual union, and that it is a uni<g ref="char:EOLhyphen"/>on of ſubſtances, eſſences, and perſons: Can this be true, and yet the ſubſtance of the Deity be incommunicable?</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 69.</note>Thou ſayes, Chriſt is in a believer, and a believer is in Chriſt, and in-being is mutual and conformable between them, and Chriſt and a believer are in one another really. And yet thou ſayes, the ſubſtance of the Deity is incom<g ref="char:EOLhyphen"/>municable.</p>
+            <p>
+               <note place="margin">2 <hi>Cor.</hi> 13.5. <hi>Col.</hi>
+1.27.</note>Thou goes on, ſaying, Chriſt himſelf is in a Believer, not his graces onely, ſo is the ſpirit it ſelf in a Believer dwells in him, not his fruits or operations onely, yet thou ſayes, the ſubſtance of the Deity is incommunicable, is not this to make the ſpirit not to be of the ſubſtance of the Deity?</p>
+            <p>Thou runs on, ſaying, This union of Chriſt and a Be<g ref="char:EOLhyphen"/>liever is a totall Vnion; the whole perſon of a believer is <pb n="24" facs="tcp:118744:15"/>united to the whole perſon of Chriſt, both Soul and Body with his Deity. And that whole Chriſt both his God-head &amp; Manhood is united to the whole Chriſtian, both his ſoul and body: And yet for all this, thou ſhames not to ſay, The ſubſtance of the Deity is incommunicable.<note place="margin">
+                  <hi>Page</hi> 70.</note>
+            </p>
+            <p>Then thou brings in <hi>Rom.</hi> 8.11. ſaying, That the ſpirit of Chriſts unities, the body of a Believer to Chriſt, as well sa his ſoul, and inhabites or dwells in his body as well as in his ſoul, and that the Saints bodies are the Temples of the Holy Ghoſt. And yet thou bluſhes not to ſay, the ſubſtance of the Deity is communicable. An infallible ſigne, thy body was never yet the Temple, wherein that pure Spirit hath lived in. Certainly ſome of thy Hearers will not credit thee in this particular, and if they will a<g ref="char:EOLhyphen"/>ny longer be led by ſuch a filthy Lyer and Blaſphemer, if they will ſtill dote upon thee, and thy Dreams, I ſhall pitty their ſad condition, that they are thus given up to believe ſuch ſtrong deluſions.<note place="margin">
+                  <hi>P.</hi> 79.</note> 
+            </p>
+            <p>A fourth obſtruction in receiving Chriſt, thou ſayes, is fear of ſuffering for Chriſt, of bearing his Croſſe, that Chriſt may prove coſtly, or his wayes and cauſe cumber<g ref="char:EOLhyphen"/>ſome, that you may leave or loſe Father, Mother, Wife, Children, Houſe, Lands, Goods, <hi>&amp;c.</hi> And Selfeneſs ſtands (thou ſayes) in Diametrall oppoſition to Chriſt, and muſt be receded from, and renounced before Chriſt can be approached or received.</p>
+            <p>Deal honeſtly with thy own ſoul, was not fear of ſuffer<g ref="char:EOLhyphen"/>ing for Chriſt, of bearing his Croſſe, the cauſe that made thee leave
+<hi>Lincoln</hi> and go to <hi>Norwich?</hi> is not fear of lo<g ref="char:EOLhyphen"/>ſing Houſe, Lands, Goods, Gratuities, yearly Revenue; re<g ref="char:EOLhyphen"/>proach of the world, the loſſe of the name of a Miniſter of the Goſpel, the cauſe that hinders thee from taking up the Croſſe of Chriſt? Canſt thou not ſay from thy own expe<g ref="char:EOLhyphen"/>rience (as in p. 80.) O the difficulty of ſelf-deniall, and mans naturall averſneſs to it, it is next to ceaſing to be himſelf: eſpecially thou ſayes, when a man hath a great Self to deny, as great parts, power and wealth.</p>
+            <p>But what's thy meaning to call the Idolls Temple a Church, and breed and wine a Sacrament, as thou doſt in thy 80. page? How many reſt, ſayes thou, in comming to <pb n="25" facs="tcp:118744:15"/>the Church, and not to Chriſt? in receiving the Sacra<g ref="char:EOLhyphen"/>ment, but not Chriſt? Fond man, how ſhould they finde him where he is not? Away with this Popery, thou paint<g ref="char:EOLhyphen"/>ed Prieſt, thy Tongue is tipt with Romiſh poyſon.</p>
+            <p>Thou tells of <hi>Peters</hi> prohibiting <hi>Cornelius,</hi> p.
+82. when he worſhipped him: but when doſt thou forbid thy flatte<g ref="char:EOLhyphen"/>rers, when they come bending and bowing before thee, curteſing unto thee? Thou wants that true humility <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> had, thy counterfeit ſtuffe ſhall yield no contentment. That ſelf-pleaſing Mantle, called the Cuſtom of the Nation, ſhall contribute no comfort to thee in the time of thy Tri<g ref="char:EOLhyphen"/>bulatio<g ref="char:cmbAbbrStroke">̄</g>, when the book of Conſcience coms to be opened.</p>
+            <p>Thou often hinteſt to the people, they ſhould readily receive Chriſts Miniſters, and counts thy ſelf, and the Tithe-taking Prieſts for Chriſts Embaſſadors, I am ſure. But that covetous griping Generation, who are alwayes crying, give, give, who love the flock meerly for the fleece, are none of the Miniſters of Chriſt Jeſus. Read
+<hi>Iſa.</hi> 56.10.11. and ſee if that place be not a pretty Repreſentative of the Prieſts of our time.<note place="margin">
+                  <hi>Iſa.</hi> 56.10.11. <hi>worth reading.</hi>
+               </note>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 56.</note>Thou tells of Chriſts Proclamation of himſelf and his Commodities free acceſs to all commers, and of all plen<g ref="char:EOLhyphen"/>tifull ſupply to all hungerers and thirſters after him, and his good things, wine and milk, <hi>&amp;c.</hi> to come and buy of him without mony, and without price.</p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 80.</note>Why doſt not thou and thy fellow falſe Miniſters make Chriſt your pattern? O the difficulty of ſelf-denial, and mens naturall averſenes to it! Yea even ſuch men who would be counted the Miniſters of Chriſt Jeſus, Theſe are ſo farre from calling people to take their counterfeit ware without mony or price, that they think they can never get money nor price enough. Are ſuch the Miniſters of Chriſt?</p>
+            <p>
+               <note place="margin">Prieſt;</note>Thou Queries whether it be not the great condemning ſin that Men will not receive Jeſus Chriſt, ſeeing that is the great command of the Goſpel, and Chriſt (ſayes thou) will come in flaming fire to take vengeance on them that obey not the Goſpel: This is the great ſalvation tender<g ref="char:EOLhyphen"/>ed to you in the Goſpel, which if you refuſe, how can you eſcape great damnation?</p>
+            <pb n="26" facs="tcp:118744:16"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/>
+               <note place="margin">
+                  <hi>Joh.</hi> 3.19.</note>This is the condemnation that light is come into the world and men love darkneſs rather than light, becauſe their deeds are evill. What will become of thee, and thy generation of teachers, who doe not receive the light, but reject it? Who inſtead of yeilding up your ſelves to it, you ſet your ſelves to preach againſt it. Ye will neither obey it, your ſelves, nor are willing that others ſhould.
+<note place="margin">
+                  <hi>Math.</hi> 23.13.</note>Wo and miſery will be the portion of ſuch men who in<g ref="char:EOLhyphen"/>ſtead of opening ſhut up the Kingdom of Heaven againſt men, and neither goe in themſelves, nor ſuffer them that are entring, to go in: how can ſuch eſcape the damnation of Hell?<note place="margin">
+                  <hi>Prov.</hi> 28.13. <hi>John</hi> 8.12.</note> Not without confeſſing, and forſaking their ſins and receiving the light of the world Chriſt Jeſus.</p>
+            <p>
+               <note place="margin">P. pa. <hi>89.</hi>
+               </note>In t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e 89 page thou tells of a fulneſs of force and effica<g ref="char:EOLhyphen"/>cy in the death of Chriſt to crucify the
+<hi>Old Man,</hi> and de<g ref="char:EOLhyphen"/>ſtroy the whole body of ſin: and page 90, Thou brings in this Scripture,<note place="margin">5 <hi>Iohn</hi> 18.</note> He that is begotten of God keeps himſelf, and that wicked one, that is Satan, who is the worſt of all bad ones, toucheth him not. This keeping of Satan, and his temptations out of the Soul (thou ſaies) conforms a Chriſtian unto Chriſt, who ſaid the Prince of this world that is Satan comes and hath nothing in mee: he cannot tempt me to ſin, I have no dry tinder of corruption with<g ref="char:EOLhyphen"/>in me to kindle with the ſparks of his tentations: all this is thy owne language, thou haſt here ſaid enough to ſhake thy own Kingdom; and confound all the Preiſts in Eng<g ref="char:EOLhyphen"/>land who preach againſt perfection.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/>
+               <note place="margin">
+                  <hi>Prov.</hi> 25.13
+<hi>Jer.</hi> 2.13.</note>Be your ſelves, O people; darken not your underſtand<g ref="char:EOLhyphen"/>ings by doating any longer upon theſe dreaming Preiſts, who are Clouds and Winds without raine, Ciſterns that hold no water. Judge, O ye wiſe in heart, whether he that is begotten of God that keeps himſelf and that wicked one the Devill cannot tempt or overcome him to commit ſin, whether that man be not perfect, and free from ſin yea or nay.<note place="margin">Was not Chriſt perfect and without ſin?</note> Whether he that is conformed unto Chriſt be not perfect yea or nay and without ſin? whether he that hath no dry tinder of corruption within him to kindle with the ſparks of Satans temptations, be not perfect and free <pb n="27" facs="tcp:118744:16"/>from ſin yea or nay? whether ſuch a Soul I ſay hath not attained to that perfection which Chriſt commanded and <hi>Paul</hi> perſwaded the Hebrews to preſs after.<note place="margin">
+                  <hi>Math.</hi> 5.48. 6 <hi>Hebr.</hi> 1.
+<hi>Hebr.</hi> 12.23. 4. <hi>Epheſ.</hi> 13.</note> Is not the ſpirit of that juſt man made perfect? Is not he then come unto the meaſure of the ſtature of the fulneſs of Chriſt? Read this without prejudice, and conſider that as the tree falls ſo it lies. And 1 <hi>Iohn</hi> 4.17.
+<hi>As he is, ſo are we in this world.</hi> Was not Chriſt Jeſus perfect? Was not he with<g ref="char:EOLhyphen"/>out ſin?</p>
+            <p>In the 91 page thou bids others not ſet their affection on things below, nor to love the world or the things of it.</p>
+            <p>Learne this leſſon thy ſelf, then preach it to others.</p>
+            <p>
+               <note place="margin">
+                  <hi>page.</hi> 93.</note>Thou talks of patient ſuffering the evills of the world, to overcome them, as perſecution, famine, Nakedneſs, Perill, ſword, &amp;c.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſwer."/> Is not he a cowardly Captaine that bids his Souldiers adventure, further than he dares goe himſelf? ſhould not ſuch a commander be Caſhierd?</p>
+            <p>
+               <note place="margin">
+                  <hi>p.</hi> 94. 95.</note>Thou bids them goe to Chriſt for his ſpirit to dwell in them to lead them as a guide in all their waies, and into all truth, To teach you all things, as a Maſter, &amp; bring al things as a Monitor into your remembrance.</p>
+            <p>What need is there then for thy defective, and imper<g ref="char:EOLhyphen"/>fect rules? Why didſt thou beg leave of thy Mayor,<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> and Aldermen, and freinds to leave thy book with them, as a light to guide them, as a ſtaff to ſtay and ſtrengthen them. If thou wouldſt have them goe to Chriſt for his ſpirit to dwell in them, to lead them as a guide in all their waies, and into all truth, to teach them all things as a Maſter, and bring all things as a Monitor into their remembrance. Is not this confuſed ſtuff? But
+<hi>Babylons</hi> Brats can work no better.</p>
+            <p>Thou talks of ſelf emptying, and ſenſe of emptineſs makes Souls hungry and thirſty after the ſpirit.</p>
+            <p>Why then doſt thou fill them with ſo many filthy-lies, and contradictions as be in thy book?<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/>
+            </p>
+            <pb n="28" facs="tcp:118744:17"/>
+            <p>The bottle that is full of bad liquor thou ſaies muſt be emptied to the bottom, before it can be filled with the good.</p>
+            <p>Is not thy bottell full of the airy windy ſtuff of Popular applauſe,<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> of the filthy muddy waters of pride, covertouſneſs, and ſelf conceit of thy humane parts: empty it ſoone that thy bottle may be fill'd with the ſweet water of life, for (as thou ſaies) if <hi>Laodicea</hi> do not know ſhe is poore, blind and naked, her veſſell is neither empty nor open but full and ſtopt or corkt up.</p>
+            <p>Now thou preſſes people to the conduit-pipes of the ordinances as thou calls them. Eſpecially word, Sacra<g ref="char:EOLhyphen"/>ments, and communion of Saints: Thou maieſt bluſh and be aſhamed to call thy ſelf-invented lifeleſs performances the ordinances of Chriſt Jeſus: where doſt thou read in the Scriptures that the two Teſtaments, as thou calls them, are the two breaſts of Chriſtian conſolation?<note place="margin">Are not the Saints bodys the Temples of the Holy Ghoſt.</note> Tell me, does not a man draw and receive his conſolation from the in-dwelling and living of the holy Ghoſt within his Body? Is not this to rob God of his honour, to attribute that to the letter which is due to the living God? Thou ſaies Chriſt is a well of living Water, didſt thou live upon that living water, thou couldſt not delight in theſe dirty pu<g ref="char:EOLhyphen"/>dles of falſe doctrine; and deceitfull devices of mans Braine, as thou does.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Pr."/> Then thou comes to the Word which thou calls the Scriptures, and bids them waite on God therein for the bleſſing of regeneration, and growth in grace.</p>
+            <p>Both Prieſt and people have the Scriptures,<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> yet which of you can witneſs in your ſelves the bleſſing of regenera<g ref="char:EOLhyphen"/>tion, and growth in grace? He that's borne of God doth not commit ſin, for his ſeed remaineth in him, and he can<g ref="char:EOLhyphen"/>not commit ſin, becauſe he is borne of God.</p>
+            <p>And doſt thou not acknowledge that he that is begotten of God keeps himſelf and that wicked one toucheth him not.<note place="margin">1
+<hi>Joh.</hi> 3.9.</note> Doſt thou not goe on ſaying, This keeping out of Satan and his tentations out of the Soul conforms a Chri<g ref="char:EOLhyphen"/>ſtian unto Chriſt? Art thou or any of thy hearers able to <pb n="29" facs="tcp:118744:17"/>witneſs the new birth, that you commit not ſin, that the wicked one toucheth you not, that his tentations are kept out of your Soul, and that you are conformed unto Chriſt?</p>
+            <p>Then thou goes to thy Sacraments, and brings a peece of Scripture for thy ſprinckling infants, which plainly con<g ref="char:EOLhyphen"/>founds the practice of thee and all thy generation of Preiſts. He that believeth is and is baptized, ſhall be ſaved. Does not beleiving goe before baptizing? Can a new borne Child beleive? Produce either precept or pre<g ref="char:EOLhyphen"/>ſident in the Scriptures for thy practice of ſprinkling In<g ref="char:EOLhyphen"/>fants, or be aſhamed: Did the primitive Church when they brake bread, receive a bit of Bread and a ſup of Wine (as the people in fellow-ſhip with thee, and all thoſe who live in formes do from the Preiſts: Is not this a Popiſh invention?), they brake bread from houſe to houſe eating their meet with ſingleneſs of heart; Was not this a full meale?</p>
+            <p>Did ever Chriſts Apoſtles uſe Prayer with preaching as you doe? The Jews indeed had certaine houſes of Prayer that Church being nationall, and ſo there was a certaine place appointed for that purpoſe, but were they not un<g ref="char:EOLhyphen"/>converted? do not you by imitating them therein, and by your lives, make it manifeſt, you are the Jews now who are unconverted? Doe you not hold up the letter,<note n="*" place="margin">In oppoſition to the Spirit, calling the let<g ref="char:EOLhyphen"/>ter your Rule.</note> and perſecute Chriſt in ſpirit? Have you any other than com<g ref="char:EOLhyphen"/>mon or formal prayers before and after Sermon, (a meer Popiſh Cuſtom) And when that is done, then comes a formal benediction or bleſſing the people, a meer cheat wherewith you delude the ignorant; but the light hath diſcovered that, and all the reſt or your deceits.</p>
+            <p>What the people are better for that bleſſing, their lives make it manifeſt:
+<note place="margin">
+                  <hi>Acts</hi> 3.2<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>Did not Chriſt that High Prieſt ceaſe this Ceremony when he bleſt his Diſciples, and after<g ref="char:EOLhyphen"/>wards came in ſpirit to bleſſe his people? were not Chriſts and his Apoſtles prayers very ſhort, plain, and to the pur<g ref="char:EOLhyphen"/>poſe: are not yours long, vain glorious, without the ſpirit and underſtanding? Does that pure ſpirit live in you, <pb n="30" facs="tcp:118744:18"/>when you perform ſuch lifeleſs exerciſes, and deliver ſuch deceitful Doctrine? and is not your ſinging, a confuſed noyſe of lying?</p>
+            <p>Thou tells of Chriſts invitation of all poor ſouls to him, who feele a need of him: then ſee from henceforth thou hinder none, keep none back, let all that will go free<g ref="char:EOLhyphen"/>ly. Does Chriſt call them, and wilt thou by the ringing of a Bell call them to thy ſelf? Art thou Chriſt? art thou the way, the truth and the life? Thou ſayes, Chriſt ſtood and cryed (ſo does he ſtill) if any man thirſt, let him come unto me and drink: ſo let him that is a thirſt come. But canſt thou and thy fellow Prieſts ſatisfie the thirſty ſouls of poor ſinners with the water of eternal life? if thee canſt not, call them no longer to thee; but ſend them to Chriſt, the light of the world, that pure Fountain; and delude them no longer by letting them drink of the long ſtan<g ref="char:EOLhyphen"/>ding, corrupted, putrified pool of mens traditions. Chriſt ſayes, Come unto me, all ye that labour and are heavy la<g ref="char:EOLhyphen"/>den, and I will eaſe you. Can thee and thy Generation give eaſe to that ſoul, that labours under the heavy load and burthen of his ſins? Do ye not inſtead of taking off the burthen lay more weight on? Chriſt he gives eaſe, and you ſell whats a Burthen.<note place="margin">
+                  <hi>Page</hi>
+117.</note> Thou talks of Chriſts cheapneſs of all ſoul Commodities, as Grace, Peace, Spirit, joy, you may buy them without money or mony worth. Hoe eve<g ref="char:EOLhyphen"/>ry one that thirſteth, come ye to the waters, and he that hath no money: for coming is buying, and thirſting is the price. I will give to him that is a thirſt of the Fountain of water of life freely.</p>
+            <p>Now ſee the difference between Chriſt and Antichriſt:
+<hi>Chriſt</hi> he gives grace,<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> peace, ſpirit, and joy freely. Anti<g ref="char:EOLhyphen"/>chriſt he ſells his graceleſs inventions, deluding, deceitful Doctrines and Traditions, the enioyment whereof brings no peace, his dead performances wherein is neither ſpi<g ref="char:EOLhyphen"/>rit nor life, his loud ſinging, wherein is no joy nor com<g ref="char:EOLhyphen"/>fort: Theſe he ſells at as great rates as he can, either by payment of Tithes, or ſo much a year, be it one hundred and fifty pound a year more or leſſe, what he can get. <pb n="31" facs="tcp:118744:18"/>Yet he tells you, that your not comming to Chriſt for what ever you want, is your condemnation, and he bids you Take it out of Chriſts own mouth, Ye will not come to me, that ye might have life; but the Serpent is ſo ſubtle, He would have you take Him in your way, make him your Guide; but while you do ſo, ye ſhall never ſee your Saviour. Well friends, the Prieſt hath told you plainly, your not going to Chriſt is your condemna<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <note place="margin">
+                  <hi>Luke</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>1.21.</note>Now unleſſe ye be Reprobates, paſt reproof, you may know that Chriſt is within you. The Kingdom of God is within you: therefore turn aſide from your worldly Teachers, and turn to the pure light of God in every one of your Conſciences. Take counſel of that truſly, faith<g ref="char:EOLhyphen"/>full, and moſt wiſe Counſeller, yield obedience unto him. Behold, to obey, is better then ſacrifice, and to hearken better then the fat of <hi>Rams:</hi> You ſhall never witneſs the life of a Saint, never truly loath all manner of ſin, till you be in perfect love with the pure light of God within you. And that will give you power over your corruptions, abiding in it, being obedient to it. The leaſt meaſure thereof, if you be faithful to it, ſhall make you experience this for truth: if you ſay to this, or that Mountain, or hill of ſin, Be removed, it ſhall be removed and le<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ei'd.</p>
+            <p>Chriſts precept is (thou ſayes) when thou prayeſt enter into thy Cloſet, and ſhut thy door. This thou calles his Rule for private prayer. Shew then his Rule for thy long vain glorious publick prayers, before and after Sermon: where do the Scriptures mention any Rule for private &amp; publick prayer, ſuch as thine? then thou talks of praying with others,
+<hi>&amp;c.</hi>
+            </p>
+            <p>
+               <note place="margin">1 <hi>Cor.</hi> 14.15.</note>'Tis an eaſie matter to patter out many words, but which of you prayes with the ſpirit and underſtanding? Thou confeſſes before, They that have not the ſpirit of Chriſt are none of his: And they who have that ſpirit living in them, need none of thy Rules or direction, how, when, or with whom, to pray. The ſpirit he helpeth our <pb n="32" facs="tcp:118744:19"/>
+               <note place="margin">
+                  <hi>Rom.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.26.</note>infirmities; for we know not what we ſhould pray for as we ought, but the ſpirit it ſelf maketh interceſſion for us, with groans which cannot be uttered.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 124.</note>Thou plainly ſhewes thy ſelf a Son of the Church of <hi>Rome:</hi> Houſes thou ſayes (as well as Temples) were and are to be dedicated to God: Thou ſayes the Jewes were commanded to do it: Hee's as blind as thy ſelf, who knowes not that; but what of this: After the Deſtruction of the Temple, was there ever any other commanded to be ſet up?<note place="margin">
+                  <hi>Acts</hi> 7.47.48.
+<hi>Acts</hi> 17.24.25 <hi>John</hi> 4.23.24.</note> Prove this if thou canſt. God dwells not in Temples made with mens hands: And ye that worſhip in the Idols Temple, ye worſhip ye know not what; for God is a Spirit, and they that worſhip him, muſt worſhip him in ſpirit, and in truth.
+<note place="margin">1 <hi>Kings</hi> 18.27.29.</note>Should I ſay to you concerning your worſhipping in your Steeple-houſes, as
+<hi>Elijah</hi> did, would you not be angry? Cry aloud, for he is a God either he is talking, or he is purſuing, Or he is in a journey, or peradventure, he ſleepeth, and muſt be awakened. But is there any voice? any to anſwer? or any that regardeth?
+<note place="margin">
+                  <hi>Anos</hi> 6.1. <hi>Rom.</hi>
+12.2.</note>Where is the man or woman amongſt you, that turneth from the evil of his wayes? that ceaſeth to do evil, and learns to do well? that lives not at eaſe (and woe be to them that live at eaſe) that faſhions not himſelf according to the World? that can truly witneſs ſelf-deniall, that takes up his daily Croſſe, and follows Chriſt?</p>
+            <p>
+               <note place="margin">P. <hi>130.</hi> can the Spirit of God be limited to ſet times?</note>Does the Scriptures limit the Saints to pray morning and evening. He that prayes without the Spirits help, his prayers are an abhomination to the Lord. The Apoſtle bids, pray continually. Away thou Legaliſt, thou painted Phariſee, bluſh and be aſhamed.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 134.</note>Thou calles the word (meaning the letter I know aſſu<g ref="char:EOLhyphen"/>redly) food for the ſoul, Manna from Heaven: but where is thy <hi>Scriptum eſt</hi> for this? can any thing but the living God ſatisfie the ſoul? Had not the Scribes and Phariſees the writings of the Prophets, the preſence of Chriſts per<g ref="char:EOLhyphen"/>ſon, and his Apoſtles, and their preaching too? yet Chriſt complains, that they would not come to him, that they might have life. They had the letter, yet wanted life they <pb n="33" facs="tcp:118744:19"/>
+               <note place="margin">
+                  <hi>Page</hi> 134.</note>had the Husk, yet wanted the Kernel. Whether is the Husk, or Shell, or the Kernel, Meat? Is it not ſaid, <hi>He ſatisfies the hungry with good things,</hi> does he call the Scri<g ref="char:EOLhyphen"/>ptures thoſe good things? where is it ſaid that they ſa<g ref="char:EOLhyphen"/>tisfie? <hi>But the rich he ſends empty away:</hi> Is this the do<g ref="char:EOLhyphen"/>ctrine of Chriſt, to ſay reading of Scripture is that to the Soul, which Dinner and Supper is to the body? How ma<g ref="char:EOLhyphen"/>ny poor pined ſtarved ſoules in this City will witneſſe againſt thee herein, when the book of Conſcience comes to be opened? Thou goes on calling the Scripture (under the name of Gods Word) the Chriſtians Armory, or Magazine, ſaying, Reading of Gods Word is a Means of putting on the whole Armour of God, of girding the ſword of the Spirit upon the Thigh of the ſoul: And that it's like an Apothecary ſhop, wherein are healing Medi<g ref="char:EOLhyphen"/>cines for all ſorts of Spirituall Diſeaſes. Thou pretends one thing and does another: thou ſeems to make the Scripture The Rule for men to walk by, but not, it ſeems, for thee to talk and prate by, who preaches and prints ſuch ſtuffe as neither thee nor all the Prieſts in
+<hi>England</hi> can prove by plain Scripture.
+<note place="margin">
+                  <hi>P.</hi> 140.</note>He that brings any other Doctrine then what was delivered by Chriſt and his Apo<g ref="char:EOLhyphen"/>ſtles, Is he not accurſed? Thou calls Conſcience a good Monitor, and ſo it is, but thou dares not ſerve ſo good a Maſter. Pag. 143. Thou calls it a Principle of Joy. O that thou wouldſt make it thy joy to obey that pure Prin<g ref="char:EOLhyphen"/>ciple, thy joy would be then <hi>unſpeakable, and full of glory;</hi> but thou treads it under foot, and dares not give it the uppermoſt Room, nor let it Rule in the Kingdom of thy Heart. It is my witneſſe, I ſpeak the Truth and lye not.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 145.</note>Thou makes confeſſion againſt thy ſelf, but forſakeſt not. Family-Duries ſuperficially performed cannot kill diſorders in thy houſe. Are the beſt of Your performan<g ref="char:EOLhyphen"/>ces any better? What means then the reigning of your Headſtrong Luſts, as Pride, Paſſion, Envy, Covetouſneſſe, &amp;c? Art thou not aſhamed ſtill to limit Prayer to Morn<g ref="char:EOLhyphen"/>ing and Evening? The 5. Pſal. 3. verſe which thou brings <pb n="34" facs="tcp:118744:20"/>
+               <note place="margin">1
+<hi>Theſſ.</hi> 5.17.</note>for thy proof, mentions <hi>Davids</hi> exerciſe in the Morning onely. Does thou bring in His practice againſt a Goſpel-precept, Pray continually or without ceaſing. Thy calling that day of the Week thou Worſhips on, the Sabbath, ſhews thy ignorance of the True Sabbath. Is this the language of A true Miniſter of the Goſpel?</p>
+            <p>Thou ſayes all Relations Domeſtical, Eccleſiaſtical, and Political are founded and eſtabliſhed in the Law of God, and Goſpel of Chriſt; But ſhouldſt thou never have pen<g ref="char:EOLhyphen"/>ny for thy preaching till thou proves this, in that ſenſe thou takeſt Eccleſiaſtical Relations, The Fox would ſoon ſay, his Spirits, and ſtrength were ſpent, Take the Pulpit who would, the Prieſt would be gone either to <hi>Norwich</hi> or ſome ſuch other Place, or City of <hi>Pecuniary</hi> Re<g ref="char:EOLhyphen"/>fuge.</p>
+            <p>Thou brings in for a Proof of thy Bold aſſertion, <hi>Thou ſhalt not covet thy Neighbours Wife, nor his Man-ſervant, nor his Maid-ſervant, &amp;c.</hi> But what's this, to Eccleſiaſticall Relation as thou calls it? Is it not like a Spiders Webb finely ſpun? yet ſo weak that a feather will fell it down? Is not this to caſt an <hi>Odium</hi> upon the late Parliament, and preſent Authority for aboliſhing Biſhops, Dean and Chapters? were not they counted Eccleſiaſtical Relations? Art not thou and thy Generation of Prieſts built upon the ſame foundation they were? Is not your life in the letter as theirs was? Their Doctrine, and yours the ſame? Do you not plead for the ſame maintenance of Tithes they did?<note place="margin">Did not thee and thy Presby<g ref="char:EOLhyphen"/>terian Genera<g ref="char:EOLhyphen"/>tion preach againſt Prelacy becauſe you would be the Prelates your ſelves?</note> Art not thou, and thy fellow Prieſt, paid for your preaching, out of that yearly Revetiue, which was formerly paid to your Elder Brethren the Biſhop, Dean and Chapter of <hi>Lincoln,</hi> Three hundred pounds a year be<g ref="char:EOLhyphen"/>tween you? If theſe Relations had been grounded upon the Law of God, and the Goſpel of Chriſt, Was it well done of them who aboliſhed them? But that Man's blind who ſees not thee to be a Miniſter of Antichriſt, quarrel<g ref="char:EOLhyphen"/>ling ſo far as thou dares, and ſhewing thy diſcontent at what the Lord hath done in haſtening the Downfall of the Devils Kingdome.</p>
+            <pb n="35" facs="tcp:118744:20"/>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 156.</note>Thou preſſes the people with their duty to their Mini<g ref="char:EOLhyphen"/>ſters: Due reſpect and love to their perſons: and thou brings in 1 <hi>Theſſ.</hi> 5.12, 13. <hi>We beſeech you, Brethren, to know them that labour among you, and are over you in the Lord.</hi> Now prove thy ſelf and the Prieſts of <hi>England</hi> if thou canſt, to be ſuch as <hi>Paul</hi> was, to be in the Lord, and fill'd with the Holy Ghoſt, Did ever <hi>Paul</hi> or any of the Primitive Saints preach ſuch Doctrine as thou and thy Fellow Prieſts do? and live in ſuch pride, pomp, idle<g ref="char:EOLhyphen"/>neſſe, and oppreſſion as you do? Thy next proof is, 1
+<hi>Tim.</hi> 5, 17, 18. <hi>Let the Elders that Rule well be counted worthy of double Honour.</hi> Name me thoſe Elders among you who rule well: Old in folly, deceit, and filthineſſe there are many; but young and green to any thing that is good. Who are they that labour in the <hi>Word?</hi> Thee and thy Ge<g ref="char:EOLhyphen"/>neration are not true Labourers in the Lords Vineyard, but lazie idle loyterers, Greedy ſhepherds: None of you abide in his Doctrine nor hold faſt the form of ſound words.</p>
+            <p>The next is, due Maintenance for their pains, <hi>Gal.</hi> 6.6.
+<hi>Let him that is taught in the Word Communicate.</hi> Firſt prove your ſelves True Teachers ſuch as <hi>Paul,</hi> and the Apoſtles were. Produce your Commiſſions from Chriſt Jeſus, Prove your Call, That you ran not before you were ſent: That you abide in his Doctrine. Till that be done, there is nothing due unto you, but Judgment. And ſhould thy ſelf, and the Prieſts of this Nation, who preach for Re<g ref="char:EOLhyphen"/>ward, be forced to make but bare reſtitution of all that they have received and robb'd the people of, under the Notion of Chriſts Miniſters, they would be the moſt beggerly contemptible People in the World.</p>
+            <p>But obſerve the word, <hi>Communicate,</hi> a voluntary Con<g ref="char:EOLhyphen"/>tribution, or free Cift. Is this the beſt prop you have for compulſive Tithes, or other ſet maintenance? Thy next place is, 1 <hi>Cor.</hi> 9.11. But what ſpiritual things have ye ſowne unto the people? unleſſe ſpiritual Deluſions, Tea<g ref="char:EOLhyphen"/>ching for Chriſts doctrine the Traditions of Men: calling Sprinckling Infants the Baptiſme of Chriſt: and roaring
+<pb n="36" facs="tcp:118744:21"/>out Lyes in the Idols Temple, ſpiritual melody: and eating a bit of bread, and drinking a ſup of wine, feeding on the Body and Blood of Chriſt. Is Original Sin the Doctrine of Chriſt? Is Denying the Deity to be Com<g ref="char:EOLhyphen"/>municable, the Doctrine of Chriſt or Antichriſt? Is not he that denyes Jelus to be come in the fleſh an Antichriſt? Then <hi>Edward Reyner</hi> hath no wrong done him to be cal<g ref="char:EOLhyphen"/>led Antichriſt: for He denyes the Subſtance of the Deity to be communicable. Is not Chriſt Jeſus of the Subſtance of the Deity? Is it not ſaid, <hi>Chriſt in you the Hope of Glory?</hi>
+            </p>
+            <p>
+               <hi>Paul</hi> tells us he uſed not this power, but ſuffered all things leſt he ſhould hinder the Goſpel of Chriſt. If the Miniſters of <hi>England</hi> were ſuch as <hi>Paul</hi> was, they would be content with <hi>Paul</hi>'s Reward; and what was that, <hi>Ve<g ref="char:EOLhyphen"/>rily,</hi> ſaith he,<note place="margin">1 <hi>Cor.</hi> 9.18.</note> 
+               <hi>That when I preach the Goſpel, I may make the Goſpel of Chriſt without charge. Paul</hi> he kept under his Body, and brought it into ſubjection, <hi>leſt that,</hi> ſaith he, <hi>when I have preached to others,</hi>
+               <hi>I my ſelf ſhould be a Caſt-away.</hi>
+               <note place="margin">1 <hi>Cor.</hi> 9.27.</note> O that when thou preacheſt Self-Denyal to others, thou wouldeſt make
+<hi>Paul</hi> thy Preſident, and practiſe it thy ſelf, and not cry out of the difficulty thereof as thou doſt, page 80. and ſo be diſcouraged and never take up the Croſſe, but live in ſuch pomp and pride as thou does, nor call for reſpect to thy perſon as thou does; like a Proud Phariſee as thou art. Do either of the places in Scripture thou produces, prove that the Apoſtles called for that re<g ref="char:EOLhyphen"/>ſpect to their perſons which thou receiveſt? Or does ei<g ref="char:EOLhyphen"/>ther of the places mention reſpect to their perſons? The Pride of thy Heart is ſeen in thy third proof, <hi>I ſaiah</hi> 52.7. The words are theſe; <hi>How beautiful upon the Mountaines are the feet of Him, that bringeth good tydings, that publiſheth peace, that bringeth good tidings of good, that publiſheth ſalvation, that ſaith unto Sion, Thy God reigneth.</hi> Come down thou proud Son of Ambition, that aſpiring ſpirit in three ſhall be level'd with the Duſt.
+<note place="margin">1 <hi>Pet.</hi> 5.5.</note>For God refuteth the proud, and gives his grace to the Humble.</p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 174.</note>Thou counſels Maſters and Miſtreffes to <hi>Make</hi> their <pb n="37" facs="tcp:118744:21"/>Servants read Scriptures, and <hi>Bring</hi> them to the Publique Ordinances.</p>
+            <p>He that dares uſe ſuch lofty language now,<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> when Li<g ref="char:EOLhyphen"/>berty to tender Conſciences through the infinite love of the living God is allowed, how would he thunder would he not prove another bloody <hi>Bonner,</hi> if ever power ſhould be put into his hands? Art thou a Miniſter of the Goſpel and thus ſeeks to dethrone him, by taking his Golden Scepter of Loe from him, and wouldſt rule thy ſelf over his Saints with thy rod of iron, thy perſecuting ſpirit? Is not Chriſt alone King of the Conſcience? Away thou Traitor to the King of Saints! Thy Treaſon is diſcovered againſt him, and his Tender Lambs; but it ſhall not pro<g ref="char:EOLhyphen"/>ſper.</p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 217.</note>Thou talks of Contempt of the World, of all the Wealth, Pomp, and Glory in it, and ſayes it is Chriſtian Magnanimity to contemn ſilver and gold.</p>
+            <p>'Tis ſuch Magnanimity, as neither thee,<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> not the Prieſts of <hi>England</hi> who preach for Rewards are indued with. What people lives in more pomp and glory of the World than your ſelves, according to your outward eſtates? who coret ſilver and gold more then your ſelves?</p>
+            <p>
+               <note place="margin">
+                  <hi>Page.</hi> 219.</note>
+               <hi>Paul</hi> thou ſayes was ſingular in Self-Denyal.</p>
+            <p>
+               <note place="margin">1 <hi>Cor.</hi> 9.27.</note>O that <hi>Edward Reyner</hi> could truly ſay ſo of himſelf; but while he preaches this to others, he himſelf becomes a Caſt-away: for he like a Coward cryes out of the diffi<g ref="char:EOLhyphen"/>culty thereof, and never yet durſt deal with it.
+<note place="margin">
+                  <hi>Page</hi> 80. <hi>P.</hi> 225.</note>Ah that thou hadſt eyes to ſee who it is that reſts in the Name without the thing; who it is that <hi>Sardis</hi>-like hath a Name to live, but is dead, and who they be that are the Syna<g ref="char:EOLhyphen"/>gogue of Satan: But this is hid from thy eyes, for thou delighteſt in darkneſſe, and loves not, but loathes the light, an infallible ſign thy Deeds are evil.<note place="margin">
+                  <hi>Revelat.</hi> 3. 1—9.</note>
+            </p>
+            <p>
+               <note place="margin">Page <hi>227.</hi> Prieſt.</note>Thou ſayes, Neither is that Baptiſme ſufficient to Sal<g ref="char:EOLhyphen"/>vation which is outward only of the fleſh.</p>
+            <p>
+               <hi>Anſ.</hi> Why doſt thou uſe it then &amp; ſprinckle Infants? being thou haſt neither precept nor preſident for that practice.</p>
+            <pb n="38" facs="tcp:118744:22"/>
+            <p>
+               <note place="margin">Prieſt.</note>Baptiſme is that of the Spirit (thou ſayes) in the Heart.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/>
+               <note place="margin">
+                  <hi>Ephſ.</hi>
+4.5.</note>If this onely be Chriſts Baptiſme, Whoſe is the other?
+<hi>Paul</hi> owned but <hi>one Lord, one Faith, one Baptiſme.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 244.</note>Thou talks of that thou never taſted of from God in (thy own not) his Ordinances (the Letter not) the World;
+<note place="margin">
+                  <hi>Hebr.</hi> 4.12.</note>(for the Word is quick and powerful) Sacraments, (Away with that Romiſh Word, it ſhewes what thou art and Wouldſt be) Prayer:<note place="margin">
+                  <hi>Prov.</hi> 12.2.
+<hi>Prov.</hi> 28.9.</note> The prayers of the Wicked are an abomination to the Lord: All thy babling is but a Phariſaical Vain-glorious Boaſting, a meer flouriſhing of a Formaliſt.</p>
+            <p>
+               <note place="margin">
+                  <hi>Ephe.</hi> 4.12, 13.</note>Thou ſayes in Heaven is perfection of grace, &amp; obedience; <hi>Paul</hi> is ſpeaking of perfecting the Saints, for <hi>the work of the Miniſtery, for the edifying of the Body of Chriſt, till we all come in the <g ref="char:V">Ʋ</g>nity of the Faith, and of the knowledge of the Son of God, unto a perfect Man, unto the Meaſure of the Sta<g ref="char:EOLhyphen"/>ture of the fulneſſe of Chriſt, That we henceforth be no more children toſſed to and fro, carried about with every wind of Doctrine by the ſleight of men, &amp;c. Paul</hi> writes to ſuch who had not yet attained to ſuch a Meaſure; But does <hi>Paul</hi> ſay, that perfection of Grace and obedience is in Heaven, as thou wouldſt have it underſtood? Does he not plainly ſignifie that the coming unto a perfect man, unto the meaſure of the ſtature of the fulneſſe of Chriſt, is to be while we are on Earth? Elſe what mean the follow<g ref="char:EOLhyphen"/>ing words, <hi>That we Henceforth be no more children toſſed to and fro,</hi> &amp;c. Can the Saints in Heaven be toſſed to and fro? What wind of falſe Doctrine is there in Heaven? What cunning craftineſſe there? Are there any in Hea<g ref="char:EOLhyphen"/>ven who lye in wait to deceive?</p>
+            <p>
+               <note place="margin">
+                  <hi>Heb.</hi> 12.23.</note>Then thou tells them, That in Heaven the ſpirits of juſt men are made perfect. The Apoſtle ſpeaking of the Adminiſtration of <hi>Moſes,</hi> &amp;c. Tells them, that they <hi>are come unto Mount Sion, and unto the City of the living God, the heavenly Jeruſalem, and to an innumerable Company of Angels, to the Aſſembly and Church of the firſt-born which <pb n="39" facs="tcp:118744:22"/>are written in Heaven, and to God the Judge of all, and to the ſpirits of juſt men made perfect.</hi>
+            </p>
+            <p>If the man were not blind he might ſee the Apoſtle ſayes, That they <hi>are come,</hi> &amp;c. But he that's in the Dark may ſtumble. And the language of <hi>Babylon</hi> is Confu<g ref="char:EOLhyphen"/>ſion.</p>
+            <p>In thy 46 page thou Queries, why they fetch not joy from Heaven to comfort their Hearts againſt all their ſor<g ref="char:EOLhyphen"/>rowes on Earth, &amp;c.</p>
+            <p>What is the joy of the Holy Ghoſt ſo weak,<milestone type="tcpmilestone" unit="unspecified" n="Anſwer."/> ſo little, that it cannot comfort the heart againſt Sorrowes on Earth, but thou muſt be thus poſting them to fetch joy from Heaven? Hadſt thou ever taſted the joy and com<g ref="char:EOLhyphen"/>fort of the Holy Ghoſt, ſurely thou wouldſt never thus have undervalued it. But however, if thou wilt needs be ſending them to heaven, it would not be amiſſe for thee to direct them the way if thou knowes it ſo well.</p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 252.</note>Speaking of the glory of heaven, Thou ſayes it is Great, Yea an exceeding, exceſſive, eternall, weight of Glory: and uſeſt them words as Scripture, 2 <hi>Cor.</hi> 4.17. But, is the Word exceſſive ſet down in that place? why doſt thou adde to the Scripture? Who ever reads the verſe, may read thee a lyar. Then thou calls theſe words, the high<g ref="char:EOLhyphen"/>eſt Hyperbole that can be expreſt; and when thou haſt done, thou contradicts thy ſelf, ſaying, <hi>Nec Chriſtus nec coelnm patitur Hyperbolen,</hi> Neither Chriſt nor Heaven can be Hyperbolized.</p>
+            <p>Thou preſſes People to that which thou haſt as much need as they to practiſe, Obedience, and Patience, which thou calls the <hi>ſhooes of the Goſpel.</hi> I wiſh thee ſo well that thou wert ſo ſhod: Thou bids them be content with ſuch things as they have, though they have but from hand to mouth; with food and rayment, though they have no more. The poor it ſeems muſt be preached unto pa<g ref="char:EOLhyphen"/>tience and contentedneſſe without dainties and Orna<g ref="char:EOLhyphen"/>ments; but the Prieſts and the proud Ones, who live in pomp and plenty, may purchaſe Lands and poſſeſſions <pb n="40" facs="tcp:118744:23"/>
+               <note place="margin">1 <hi>Cor.</hi> 9.27.</note>without any check, as the proud Prieſts of <hi>Lincoln</hi> do. Do not theſe men, preaching that which they themſelves practiſe not, make themſelves become Caſt-awayes?</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 27<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>Thou ſayes, [If I had More of the world] what haſt thou not enough yet? One hundred and fifty pounds a yeare for preaching, beſides a pretty Land thou haſt purchaſed [it might make me worſe] that needs not, thou art bad e<g ref="char:EOLhyphen"/>nough already, Is it not pitty thou ſhould have more, to make thee worſe?<note place="margin">And yet woul<g ref="char:EOLhyphen"/>deſt be counted a Miniſter of the Goſpel, O bluſh and be a<g ref="char:EOLhyphen"/>ſhamed.</note> More worldly, vain, unſavory in my ſpirit. Here thou confeſſeſt thy ſelf, worldly, vain, unſa<g ref="char:EOLhyphen"/>vory in thy ſpirit; * but confeſſion without forſaking will not obtain remiſſion.</p>
+            <p>And while thou art worldly, vain, unſavory in thy ſpi<g ref="char:EOLhyphen"/>rit, thou art no true Miniſter of the Goſpel.</p>
+            <p>Thou goes on, ſaying, If I had as much as others (what ſtill gaping after more gold and ſilver? what never ſatis<g ref="char:EOLhyphen"/>fied? Thou haſt yearly coming in as much, as would maintain ſeverall Families, precious Sons and Daughters of the living God.) Its like I might be as ſinful, and ſen<g ref="char:EOLhyphen"/>ſuall, as proud, covetous, and vain glorious as others.</p>
+            <p>
+               <hi>Anſw.</hi> Thou art as ſinful, as ſenſuall, as proud, as co<g ref="char:EOLhyphen"/>vetous, and vain glorious as many of the world, who pre<g ref="char:EOLhyphen"/>tend not to that height and growth in Chriſtianity as thou does.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 272.</note>Thou ſayes a man may have much of the world, much wealth, honour, pleaſure, and much trouble, ſorrow, and vexation with it: both Scripture and experience atteſt the ſame.</p>
+            <p>
+               <hi>Anſw.</hi> Thou mighteſt have ſpoken more plainly, and have ſaid thy own experience atteſts it: For much honour, wealth, and pleaſure, thou haſt, and I know ſometimes, the witneſs for God ariſes in thee, preaching ſelf-deniall to thee.
+<note place="margin">
+                  <hi>P.</hi> 72.</note>The light lets thee ſee thou lives not like a Mi<g ref="char:EOLhyphen"/>niſter of Chriſt Jeſus, but art a Miniſter of Antichriſt; for thou denies Chriſt Jeſus to be come in the fleſh, by de<g ref="char:EOLhyphen"/>nying the ſubſtance of the Deity to be communicable (unleſs thou wilt ſay Chriſt Jeſus is not of the ſubſtance of the Deity, and thats plain blaſphemy) and thou preach<g ref="char:EOLhyphen"/>eſt <pb n="41" facs="tcp:118744:23"/>for gifts and Rewards, living in pomp, pride, and ful<g ref="char:EOLhyphen"/>neſs of the world, that thou abideſt not in the Doctrine of Chriſt: And art one with the world in its wayes, faſh<g ref="char:EOLhyphen"/>ions and Cuſtoms. And then the earthly man, the rebel<g ref="char:EOLhyphen"/>lious part, which would live at eaſe, is tormented, trou<g ref="char:EOLhyphen"/>bled, and diſquieted: That this is true, the witneſs for God within thee, is my faithful Record.</p>
+            <p>Then thou goes on, ſaying, A man may have a little in, and of the world, yet enjoy much quiet, and content of minde, and comfort: but thou does not ſay, thy own ex<g ref="char:EOLhyphen"/>perience can atteſt this. No, thou goes farre to fetch an example; but to give thee thy due, thou brings a good One with thee, no leſſe than the Apoſtle <hi>Paul</hi> himſelf,
+<note place="margin">
+                  <hi>Phil.</hi> 4.10, 11, 12, 16.17.</note>(If ſeems thou couldſt not finde one in all thy own flock) <hi>Paul</hi> knew how to be abaſed, and how to abound, both to be full, and to be hungry, both to abound, and ſuffer need. In the 18th verſe, Thou ſayes, <hi>Paul</hi> triumphs, as if all the world was his own, and this was for one gift he received of <hi>Epaphroditus:</hi> How many gifts haſt thou re<g ref="char:EOLhyphen"/>ceived without witneſſing ſuch a true Triumphing? Nay, how many conſiderable gifts art thou able to ſend for the ſupply of the Saints neceſſities, who ſuffer for the teſtimo<g ref="char:EOLhyphen"/>ny of a good Conſcience?</p>
+            <p>How many teſtimonies of thy love can thy Conſcience bear thee witneſs, thou haſt ſent to ſuch, out of the abun<g ref="char:EOLhyphen"/>dance of thy Treaſury?</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 246.</note>Thou was asking, why you do not fetch joy from Hea<g ref="char:EOLhyphen"/>ven to comfort your hearts againſt all your ſorrows on earth: and now page 274.
+<note place="margin">
+                  <hi>Page</hi> 274.</note>Thou ſayes, if Gods preſence make Heaven above for joy, glory and plenty, ſure Gods preſence with you on earth is ſufficient to make any con<g ref="char:EOLhyphen"/>dition even the meaneſt, comfortable to you, what can be wanting while God is with you?</p>
+            <p>
+               <hi>Anſw.</hi> Then what needed thee to have haſted the people to fetch joy from Heaven, ſince thou confeſſeſt his preſence on earth is ſufficient? And how this expreſſion agrees with that place of thine, where thou ſayes, The joyes of Heaven exceeds, and ſwallows up the joy of the <pb n="42" facs="tcp:118744:24"/>Holy Ghoſt, as the Sea doth a handful of earth. Let the wiſe in heart judge.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 278.</note>Thou ſayes, thoſe will be found the happieſt men of all at laſt, who have had the moſt affliction.</p>
+            <p>
+               <hi>Anſw.</hi> Then thou and thy Generation will be found very miſerable.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 281.</note>Speaking of Chriſts poverty: Thou ſayes, when he wanted mony to pay Tribute. He was glad to work a miracle for it.</p>
+            <p>How many hundred pounds haſt thou received for thy preaching, and never payd penny of the ſame towards aſſeſments. O the difference between Chriſt and Anti<g ref="char:EOLhyphen"/>chriſt!</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 291.</note>Thy Counſel to ſuch as walk in darkneſs, and ſee no light, is, let them indeavour to fear God, and obey the voice of his Servants, that is, ſayes thou, they ſhould ap<g ref="char:EOLhyphen"/>ply themſelves to their duties, to believe and fear, and o<g ref="char:EOLhyphen"/>bey God, and to uſe the means God hath appointed for their ſouls, as to hear the word preached, that is the voice of his Servants, to wait on God in the Eye of his Ordi<g ref="char:EOLhyphen"/>nances: <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> O ſubtle Antichriſt, under this paint of thine, lies deadly poyſon! when was the preaching of the letter [for thou calles that the word] appointed by God for the ſouls of the people? and prove thy ſelf appointed by God to be a Preacher.
+<note n="*" place="margin">If thou canſt.</note>Clear this bold aſſertion of thine, and that thy empty lifeleſs Ordinances, the Traditions of men are the eye of God, on which the people are to wait. Do this and live, without ever being contradicted by my tongue or pen.</p>
+            <p>In the mean time, it will not be amiſs for the Reader to ſearch the place or foundation whereon the man ſeems to build his
+<hi>Babel, Iſa.</hi> 50.10. Who is among you that fear<g ref="char:EOLhyphen"/>eth the Lord, that obeyeth the voice of his Servant, that walketh in darkneſs, and hath no light, let him truſt in the name of the Lord, and ſtay upon his God.</p>
+            <p>He that hath any underſtanding in the things of God, will ſay this ſeeming Saint is wreſting and twining the Scripture out of joynt, to maintain his tottering Trade of talking in the Pulpit; but <hi>Dagon</hi> cannot ſtand before <pb n="43" facs="tcp:118744:24"/>the Ark. His <hi>Diana</hi> muſt down, The mouth of the Lord hath ſpoken it.</p>
+            <p>
+               <note place="margin">302.</note>Self-ignorance thou ſayes, made
+<hi>Laodicea</hi> think her ſelf rich. And ſelf-love is a falſe glaſſe, thou ſayes, men commonly look themſelves in, which makes all ſeem good, that they are, have, or do.</p>
+            <p>
+               <hi>Anſw.</hi> Art not thou and thy flock, a <hi>Laodicean</hi> Aſſem<g ref="char:EOLhyphen"/>bly, that thinks her ſelf rich, and hath need of nothing that ſits as a Queen, and ſayes ſhe can never be moved? Is not ſelf-love, and ſelf-righteouſneſs the fruits of thy Miniſtry? Canſt thou, and thy Hearers witneſs in the preſence of God, a love to, and delight in him, a fear to offend him, or to grieve his holy ſpirit? what means then the looſneſs of your lives, your conformity to the world in your converſations? your frowardneſs, pride, envy, and paſſion?</p>
+            <p>Do you not even in your beſt performances, draw neer him with your lips, when your hearts are far from him? which of you forſakes the evil of your doings, your deceit, and diſſimulation? Every man ſearch and examine his own Conſcience, and let the witneſs for God give your anſwer to me.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 309.</note>Aſſurance thou ſayes, does not fear or fly Tryall, whe<g ref="char:EOLhyphen"/>ther it be ſound or no; but preſumption ſhuns examina<g ref="char:EOLhyphen"/>tion, and cannot endure to be ſearched.<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> Is not this your own condition. Are you not like him that hath counter<g ref="char:EOLhyphen"/>feit Coine, which will not abide the Touchſtone? Or him that puts off bad Ware, loves the dark, and loaths the light?
+<note n="*" place="margin">Didſt not thee uſe theſe words when a Woman came into the Mini<g ref="char:EOLhyphen"/>ſter, and would have-teſtified againſt thy de<g ref="char:EOLhyphen"/>ceit.</note>If any Saint of God be moved to come into your Aſſemblies, to teſtifie againſt your deceitful Doctrine: Do you not bid preſently take them away. Is not advantage taken by the outward Law againſt them? Or do you not rage, revile, beat and perſecute them. Have not ſome been perſecuted in thy Aſſembly, by ſome of thy own fellowſhip or hearers. If thou haſt the impudency to de<g ref="char:EOLhyphen"/>ny it, or canſt by <hi>Plain Scriptures</hi> vindicate the Action, do it?</p>
+            <pb n="44" facs="tcp:118744:25"/>
+            <p>Art thou not aſhamed to compare <hi>Calvins</hi> care with the Apoſtle <hi>Pauls?</hi> Canſt thou boaſt of <hi>Calvins</hi> ſufferings for the Goſpel, and equall them with <hi>Pauls?</hi> Did <hi>Calvin</hi> work with his own hands day and night, as <hi>Paul</hi> did? Did he live in ſuch outward want as <hi>Paul</hi> did? Was he filled with the Holy Ghoſt, as
+<hi>Paul</hi> was? Did not <hi>Calvin</hi> live in pomp and ſtate at
+<hi>Geneva,</hi> as thou does at <hi>Lincoln?</hi> But thou matters not it ſeems what thou ſayes, ſo thou mayſt advance the Reputation of
+<hi>Calvin,</hi> becauſe he was of thy own Brother-hood? Thy third ſigne (ſhews thy ſubtlety) contempt of Gods Ordinances, of Magiſtracy, Miniſtry, Scriptures, Sabbaths.</p>
+            <p>When Authority is trampled upon, and men ſleight &amp; hate him that rebuketh or judgeth juſtly. If thou knowes any that do ſo, charge them with it. Name that Magiſtrate that judgeth juſtly in the Gate, and is for ſo doing hated by that People againſt whom thy heart in ſecret ſhoots the Arrows of its poyſon. That true Magiſtrate that would judge juſtly upon the wicked One, is by thee and thy Generation trampled upon and perſecuted.</p>
+            <p>Then thou tells, when <hi>Iſrael</hi> mocked the Meſſengers of God, and deſpiſed his words, and miſuſed his Prophets, Then the wrath of the Lord aroſe againſt them.</p>
+            <p>Thou and thy Generation have an itching deſire to be counted the Meſſengers of God. But what is the Meſſage you deliver? Is it not falſe Doctrine, lies, and blaſphe<g ref="char:EOLhyphen"/>mies, witneſs thy Book, and your Pulpit exerciſes, ſuch as the Prophets, Chriſt, nor his Apoſtles never preached, nor practiſed, but cryed woe againſt:<note place="margin">
+                  <hi>Iſa.</hi> 56.11. <hi>Jer.</hi> 5.31. <hi>Jer.</hi> 14.14.
+<hi>Iſa.</hi> 48.22. <hi>Mat.</hi> 10.34.</note> Do you not ſeek for gain from your Quarter, propheſie lies unto the people? run before you be ſent? ſpeaking peace to them to whom the Sword is due; for there is no peace to the wicked. And Chriſt he came not to bring peace to ſuch, but a Sword: What are the mockings and miſuſings thou com<g ref="char:EOLhyphen"/>plaineſt <pb n="45" facs="tcp:118744:25"/>of? who live at more eaſe in worldly credit, and take leſſe care and labour for an outward livelihood, than the Prieſts who live upon other mens labours?
+<note place="margin">
+                  <hi>Acts</hi> 13.32. <hi>Luke</hi> 9.3.
+<hi>Acts</hi> 20.33.</note>But the true Meſſengers of God, who declare of his word in ſin<g ref="char:EOLhyphen"/>cerity, preaching the glad tydings of the Goſpel without bagg or ſcrip, who covet no mans ſilver or gold, nor make the Goſpel chargeable to the world: Theſe precious Saints, and Sons of the living God are reproached, and perſecuted by this ſinful Generation.</p>
+            <p>Who are they that contemn the Scriptures, but thoſe who in words ſeem to make them their Rule but in their life and practice tramples them under foot? even thy ſelf, and all thoſe that preach for Rewards, and they that prize them for <hi>Apollo's:</hi> Thou, and the world ſhalt finde, that the contempt of <hi>The Word,</hi> (not the Letter, though we contemn not that, but own it) and <hi>His Miniſters</hi> (but not the Prieſts of
+<hi>England</hi>) is a provoking ſin, and a pre<g ref="char:EOLhyphen"/>ſaging Symptom of Ruine to a People.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 322.</note>Thou talks of a Spirit of error and deluſion, and contra<g ref="char:EOLhyphen"/>diction.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> Is not error, Deluſion, and Contradiction the poyſon poor people ſuck from the paps of their Paſtors, inſtead of Wine, Milk and Honey?
+<note place="margin">
+                  <hi>Eccleſ.</hi> 2.14.</note>Thou and thy fellow Prieſts are ſeen by every one, whoſe eye is in his head, to be poſ<g ref="char:EOLhyphen"/>ſeſſed with that ſpirit of error, deluſion, and contradicti<g ref="char:EOLhyphen"/>on, which thou wouldeſt caſt upon the Saints of God. Do you not teach for Chriſts Doctrine the Traditions of men?
+<note place="margin">
+                  <hi>Mat.</hi> 15.3. <hi>Mark</hi> 7.7.</note>Are you not Antichriſts, denying Chriſt to be come in the fleſh, when you deny the ſubſtance of the De<g ref="char:EOLhyphen"/>ity to be communicable? Do you not call ſprinkling of Infants, the Baptiſme of Chriſt? Are you not called of men Maſters, contrary to Chriſts Command? if you be Chriſts Diſciples, that's a Command to you.<note place="margin">
+                  <hi>Mat.</hi> 23.10. <hi>Iſa.</hi>
+56.11. <hi>Mat.</hi> 23.14</note> Do you not ſeek for gain from your Quarters? and uſe long vain glo<g ref="char:EOLhyphen"/>rious prayers in your Synagogues, faſhioning your ſelves <pb n="46" facs="tcp:118744:26"/>
+               <note place="margin">
+                  <hi>Rom.</hi>
+12.2. 2 <hi>Tim.</hi> 1.13.</note>according to the world, not holding faſt the form o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſound words ſuffering poor ſouls to commit ſin in the beſt of their ſacrifices, by telling lies when they ſing <hi>Da<g ref="char:EOLhyphen"/>vids</hi> Pſalms?</p>
+            <p>Do they not preach againſt pride, yet who more proud then the Prieſts?
+<note place="margin">
+                  <hi>Matth.</hi> 7.3.</note>Do they not talk much againſt cove<g ref="char:EOLhyphen"/>touſneſs, yet who more covetous than themſelves? Are not theſe the Phariſees of our age, that can ſpy a mote in their Brothers eye, but cannot ſee to pull out the beam in their own?<note place="margin">
+                  <hi>Jer.</hi> 23.21.</note> Theſe run and never were ſent. And for divi<g ref="char:EOLhyphen"/>ſion and Contradiction, let twenty ſpeak all from one place of Scripture, and you ſhall have ſo many men, ſo many mindes, and meanings, opinions, imaginations, and contradictions: Then, for a ſpirit of giddineſs, who more giddy, unſolid, and more unſtable then themſelves? Twenty or thirty pound a year more, and ſome other con<g ref="char:EOLhyphen"/>veniencies is a Call ſufficient with moſt of them from one place to another.</p>
+            <p>To leave a poor flock for a richer fleece is an ordinary thing. And as for bitterneſs and perverſneſs, let them preach where they will, if their Tithes be not payd, or their Doctrine be publiquely oppoſed, let them ſhew pa<g ref="char:EOLhyphen"/>tience, and moderation that can, The Prieſts have not ſuch pleaſant flowers growing up in their Gardens. And as for falſhood and deceit, 'tis too well known by ſome, that they live in that Myſtery of Iniquity, and delight therein: but this will be bitterneſs in the latter end, when Conſcience-Book comes to be opened.</p>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 329. <hi>Phil.</hi>
+2.16.</note>Thou bids, Be willing and ready to ſuffer for the Churches of Chriſt, and Children of God, as <hi>Paul</hi> was for the <hi>Philippians (Not as Edward Rayner was for the Lincoln<g ref="char:EOLhyphen"/>ers.)</hi> If I be offered upon the Sacrifice, and ſervice of your faith, That is, ſayes thou, if I ſeal my Doctrine with my blood, and confirm your faith by my death, I count it matter of joy both to you and me.</p>
+            <pb n="47" facs="tcp:118744:26"/>
+            <p>
+               <note place="margin">
+                  <hi>Page.</hi> 330.</note>But thou never hadſt yet ſuch Chriſtian courage, nor never wilt while thy heart dwells where it does: Have not thoſe Heathens thou tells of, who ſuffered, and dyed for the proſperity of the Publick, ſhewed themſelves bet<g ref="char:EOLhyphen"/>ter State-Martyrs, as thou calles them, then thou haſt been a Goſpel-Miniſter?</p>
+            <p>
+               <note place="margin">P. <hi>333.</hi> Prieſt.</note>Thou complaines what a poor Account can rich men give of their goods, who have done little or no good to others with them? Can learned men give of their gifts? Can Magiſtrates give of their power, who have born the ſword in vain, who have taken to themſelves the ho<g ref="char:EOLhyphen"/>nour, but not performed to others the duty of their place?</p>
+            <p>Should any of the Saints have ſpoken this language,<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> Thou wouldſt preſently have branded them with the Name of Buſie-bodies; and Contempt of Authority ſhould have been caſt upon them.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 318.</note>A little before thou was muttering out, and hinting, That Authority was trampled upon, that men ſleight and hate him that rebuketh or judgeth juſtly in the Gate: and here thou complaines of his bearing the ſword in vain. But no better can be expected from thee, than thy bottles be fill'd with.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 335.</note>Thou ſayes it's a Mark of diſhonour, and a Brand of infamy to be a Self-ſeeker, to be like a Hogg that does no good till he dyes, and ſcarce then with his good<g ref="char:EOLhyphen"/>will.</p>
+            <p>Search,<milestone type="tcpmilestone" unit="unspecified" n="Anſw"/> and ſee how many ſuch Hogs thou haſt in thy Herd, and thou ſhalt find more ſuch Cattle, than thou canſt truly call Chriſtians.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 339.</note>Thou tells of
+<hi>Dorcas</hi> dying full of good Works, and <hi>Paul</hi> full of Miniſteriall Labours, (not full of filthy lyes, Blaſphemies and contradictions as thou art) and of good ſucceſſe, or Goſpel-fruits full of the Seales of his Mini<g ref="char:EOLhyphen"/>ſtery.</p>
+            <pb n="48" facs="tcp:118744:27"/>
+            <p>How many ſuch <hi>Dorcaſſes</hi> haſt thou in this City?<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> Wert thou now on thy Death-bed, inſtead of good ſuc<g ref="char:EOLhyphen"/>ceſſe of thy Miniſtry, mightſt thou not juſtly complain as thou did a little before, What a poor Account can rich men give of their goods? learned men of their gifts? and Magiſtrates of their power? A vaſt difference be<g ref="char:EOLhyphen"/>tween <hi>Paul's</hi> ſucceſſe, and thine. And indeed it muſt Needs be ſo. <hi>Paul</hi> was fill'd with the Holy Ghoſt, and thou with the ſpirit of Deceit and Deluſion.</p>
+            <p>
+               <note place="margin">
+                  <hi>Pag.</hi> 350.</note>Speaking of the Return of Gods preſence and his fa<g ref="char:EOLhyphen"/>vour, thou uſeſt thoſe words, <hi>In giving you the Liberties of his Houſe.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Acts</hi> 7.47, 48. <hi>Act.</hi> 17.24,
+25. 1 <hi>Cor.</hi> 6.19.</note>Thy end is ſeen in the uſe of that Language. But the Lord dwells not in Temples made with hands. The Saints Bodies are the Temples of the Holy Ghoſt.</p>
+            <p>Then thou talks of taſting the ſweetneſſe, (A fine ex<g ref="char:EOLhyphen"/>preſſion if there were Truth in it) and feel the power and efficacy, (rather the Flatneſs, deadneſs, and dulneſs,) the Beauty, and Glory, (the uncomelineſs, and raggedneſs) of all his holy Ordinances, (thy filthy Dreams and Tra<g ref="char:EOLhyphen"/>ditions, Rags of the Romiſh Whore) and of the Aſſem<g ref="char:EOLhyphen"/>blies of his people; (a mixed multitude of Presbyte<g ref="char:EOLhyphen"/>rians, Independents, and Cavaleers ſo called) O that I could truly call you an Aſſembly of Gods people: O that your hearts were upright before the Lord: My ſoul pities all ſuch who are thus led, and nuzzled up in ignorance by a painted Phariſee, who will neither enter into the Kingdome of God himſelf, nor ſuffer them that would.
+<note place="margin">
+                  <hi>Matth.</hi> 23.13.</note>And I hope ere long, their Eyes ſhall be opened, and they ſhall ſee his deceits diſcovered, and eſcape them.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 356.</note>Thou tells, thou haſt heard ſome ſay, God hath uſed to reſolve their doubts by the Miniſtry of the Word, thy meaning is, by ſuch Prieſts as thy ſelf. And then thou Pre<g ref="char:EOLhyphen"/>ſumptuouſly and Blaſphemouſly boaſteſt, ſaying, Thus God fulfills this promiſe, <hi>Iſaiah</hi> 20.21. <hi>Thine Eares ſhall
+<pb n="49" facs="tcp:118744:27"/>hear a voice behind thee, ſaying, This is the way, walk in it, when thou turneſt to the right hand or to the left hand.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 399.</note>Obſerving the Soul, the affaires of it, and Gods deal<g ref="char:EOLhyphen"/>ings with it, will make a man, thou ſayes,
+<hi>A Divine to Himſelf;</hi> and obſerving a mans courſe well, and how God hath led him, will make a man, under God, a Guide to himſelf.</p>
+            <p>Ah Friends! Be your ſelves,<milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> and dote no longer upon this filthy Dreamer, when every one of you (by his own Doctrine) may be <hi>a Divine to Himſelf,</hi> and <hi>a Guide to Himſelf.</hi> Will you be ſo fooliſh to be led any longer by ſuch a falſe Prophet?
+<note place="margin">
+                  <hi>Exod.</hi> 21.5, 6.</note>Will you have your Eares bored through with an Awle in token of perpetual bondage? Do not inſlave your ſoules for ever. Mind that Divine Principle of God within you; and if you be willing to obey that faithful Counſellor, it will be a True Guide to you, it will be whiſpering the pure Counſel and Will of God unto you. Ah yield up your ſelves to the light of Chriſt in all your Conſciences; Love it I beſeech you.
+<note place="margin">
+                  <hi>Ezek.</hi> 21.26, 27.</note>This is the Right Heir, give him the Kingdom of your Hearts. Keep the poſſeſſion thereof no longer from him. Will you not Reverence this Son? O kiſſe him
+<hi>leſt he be angry!</hi> Bleſſed is the man that heareth This Welbeloved Son in whom Alone the Lord is well plea<g ref="char:EOLhyphen"/>ſed: <hi>Bleſſed,</hi>
+               <note place="margin">
+                  <hi>Prov.</hi> 8.34, 35.</note>I ſay, <hi>is the man that heareth</hi> Him (not the falſe Prophets who preach for Reward)
+<hi>watching daily at</hi> his <hi>gates, waiting at the poſts of his doores.</hi> (not at the gates of the Idols Temples, or the Poſts of their doores.) <hi>For who ſo findeth him findeth life, and ſhall obtain-favour of the Lord;</hi> Seek him and you ſhall find him; but then ſeek right, look within, for there He is in every one of your Conſciences, bearing witneſſe againſt all unrighteouſ<g ref="char:EOLhyphen"/>neſſe. <hi>He that ſinneth againſt it, wrongeth his own ſoul; All they that hate</hi> it, <hi>love Death,</hi> Prov. 8.36.</p>
+            <pb n="50" facs="tcp:118744:28"/>
+            <p>
+               <note place="margin">
+                  <hi>Page</hi> 408.</note>Thou ſayes, Aged perſons are fitteſt to give Counſell: having lived many years they have gained much expe<g ref="char:EOLhyphen"/>rience; and thou brings in <hi>Job</hi> 32.6, 7. <hi>Dayes ſhould ſpeak, and multitude of years ſhould Teach Wiſdom.</hi>
+            </p>
+            <p>Its true, They ſhould do ſo. But is it ſo with thee? Thou haſt lived many years: Thou ſhouldſt teach Wiſ<g ref="char:EOLhyphen"/>dome, but O the abundance of folly and filthineſſe aboun<g ref="char:EOLhyphen"/>ding in thy book, the groſſe darkneſſe, and doating dreams thou delivers inſtead of ſound Doctrine. My ſoul pities thee, and all that are deluded by thee.</p>
+            <p>Wert thou not blind, thou wouldſt not have brought this proof for thy Aſſertion: for this makes againſt thee.</p>
+            <p>
+               <hi>Job</hi> in his former Chapter ſpoke much of his Integrity:
+<hi>Elihu</hi> not well pleaſed at <hi>Jobs</hi> Juſtification of himſelf, ra<g ref="char:EOLhyphen"/>ther than God. And againſt his three friends was his wrath kindled becauſe they had found no Anſwer, yet condemned <hi>Job:</hi> Now
+<hi>Elihu</hi> had waited till <hi>Job</hi> had ſpo<g ref="char:EOLhyphen"/>ken, becauſe they were elder then he, when <hi>Elihu</hi> ſaw there was no Anſwer in the Mouth of theſe Three Men, Then his Wrath was kindled, and ſaid, <hi>I am young and ye are very old, wherefore I was afraid and durſt not ſhew my opinion. I ſaid, Daies ſhould ſpeak and multitude of years ſhould teach wiſdome. But there is a ſpirit in man, and the inſpiration of the Almighty giveth them underſtand<g ref="char:EOLhyphen"/>ing. Great men are not alwayes wiſe, neither do the Aged underſtand judgment. Therefore I ſaid, Hearken unto me.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Titus</hi> 2.2, 3.</note>See thee here!
+<hi>Elihu</hi> green in yeares was made to reprove gray haires. And
+<hi>Titus</hi> muſt teach the aged Men and Women. I know thy end is, to make peo<g ref="char:EOLhyphen"/>ple believe Wiſdome is lockt up in the lips of old men; Long ſtanding Teachers in the Pulpit] but ſuch, <hi>Are Ancient in Deceit.] Multitude of years ſhould teach Wiſ<g ref="char:EOLhyphen"/>dome;</hi> but the multitude of thy Eight and Twenty years <pb n="51" facs="tcp:118744:28"/>Miniſtry hath brought forth a multitude of filthy lyes bound up in thy Babyloniſh Book of Doating Dreams inſtead of the Doctrine of Chriſt, and his Apoſtles.</p>
+            <p>
+               <note place="margin">Prieſt. pag. <hi>409.</hi>
+               </note>Once more thou tells the people, That experience of God, and his Dealings, will make men become Pro<g ref="char:EOLhyphen"/>phets to themſelves, and able to be Teachers of others.</p>
+            <p>This is true, but thou dareſt not abide here; <milestone type="tcpmilestone" unit="unspecified" n="Anſw."/> for if they ſeparate from thee, thou cryes out of Faction, and Deluſion. Ah how my ſoul thirſts after the Salvation of your ſoules who are thus drawn into the Chambers of Darkneſſe, and Deluſion by this Mans Doctrine, and de<g ref="char:EOLhyphen"/>luding Tongue. O that I may ſee you withdraw from this filthy Dreamer, and ſet forward towards the True Land of Canaan. The light of Chriſt in your Conſcien<g ref="char:EOLhyphen"/>ces; it will lead you to the Heavenly Jeruſalem, where<g ref="char:EOLhyphen"/>in there is no need of the dimme Candle-light of this Egyptian Prieſt.</p>
+            <p>Come out of Egypt, dear Hearts, do not delight to live and dye in the wild Wilderneſſe you at preſent are in: The generation of Prieſts are the Hard-hearted, proud, oppreſſing <hi>Pharaohs,</hi> that will not let the Children of <hi>Iſrael</hi> go free; but fear them not, onely be valiant and Turn to the Light: And it love with all your hearts, and your ſoules ſhall ſee Deliverance ſhortly, and <hi>Pharaoh</hi> and his Hoſt ſhall be drowned in the Red-Sea.<note place="margin">
+                  <hi>Exod.</hi>
+13.27, 28.</note>
+            </p>
+            <p>
+               <note place="margin">Prieſt. Page <hi>249.</hi>
+               </note>In that part of thy Book, called the Government of the thoughts, Thou ſayes, Thoughts of the Vanities of the world with delight in them, as faſhions, ſports, (thou mighteſt have named Bowling and Muſick) Comple<g ref="char:EOLhyphen"/>ments, entertainments, news, jeſts, the very froth and ſcum of wit and diſcourſe, theſe thou ſayes are not worth thinking of.</p>
+            <pb n="52" facs="tcp:118744:29"/>
+            <p>
+               <hi>Anſw.</hi> Are they then worth thy living in them? Thou doſt conform thy ſelf to the faſhions of the world, Thou uſeſt Bowling and Muſick, and liveſt in Complements, and reſpect of perſons, Art thou not alſo one that giveſt entertainments, liſtens after news, and loves jeſts, the very froth and ſcum of wit and diſcourſe?</p>
+            <p>The living Principle of God within thee is my true witneſs, and faithful Record in theſe particulars, and ſhall riſe up in judgement againſt thee for theſe things, if thou repenteſt not. The light will be thy condemnation, if thou loveſt it not.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 255.</note>Thou ſayes, While you are thinking what gain you have got by ſuch a Commodity you have fold; of bargain of Land, or Wares you have bought, or at ſuch a Faire or Market, Think withall, how little ſpiritual profit you have gotten for your ſouls, at the many ſoul-fairs, or Mar<g ref="char:EOLhyphen"/>kets you have had, as the Sabbaths, Ordinances, and Sa<g ref="char:EOLhyphen"/>craments.</p>
+            <p>Let me anſwer for them herein: Thou and thy Gene<g ref="char:EOLhyphen"/>ration of Prieſts have gotten more temporall gains, more Lands, mony and goods by the bad Commodities, and Wares, and falſe Doctrine which you deliver at ſuch Prieſt-Faires or Markets, as thou calls Sabbaths, and painteſt over with the name of Chriſt Ordinances, than ever their poor ſouls found comfort by them that bought them of you, and traded with you.</p>
+            <p>
+               <note place="margin">
+                  <hi>Iſa.</hi> 55.2.</note>Woe and miſery will be the Portion of ſuch Prieſts, if they repent not, who take money for that which is not bread, and delude the ignorant with your inſinuating Tongues, calling light darkneſs, and darkneſs light. You are worſe then
+<hi>Simon Magus;</hi> for he would have bought the Spirit, and ye ſell the Letter, adding thereto many lies of your own:</p>
+            <pb n="53" facs="tcp:118744:29"/>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 375.</note>Thou tells of the undaunted and inſuperable courage of <hi>Paul,</hi> whom neither bonds nor afflictions, nor death, could move or appale: but the very thoughts of bonds im<g ref="char:EOLhyphen"/>priſonment and afflictions made thee fly from thy flock in
+<hi>Lincoln</hi> to <hi>Norwich.</hi> See what difference there is, friends, between <hi>Paul</hi> and your Prieſt.</p>
+            <p>Then thou brings in that of <hi>Nehemiah,</hi> chap. 6. verſ.
+11. ſhall ſuch a man as I, flee? Hadſt thou been as true a Mini<g ref="char:EOLhyphen"/>ſter of Chriſt, as <hi>Paul</hi> was, thou wouldeſt not have want<g ref="char:EOLhyphen"/>ted
+<hi>Pauls</hi> inſuperable courage; but, when the ſlaviſh fear was ariſing in thee, Thou wouldeſt have ſaid as <hi>Nehemiah</hi> did, ſhall ſuch a man as I flee? But the Tree was known by its fruit: ſhame cover thee, thou cowardly Prieſt.<note place="margin">
+                  <hi>Mat.</hi>
+12.33.</note>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Heb.</hi> 11.</note>What doſt thou talking of thoſe Worthies in that little Book of Martyrs (as thou calls it) of whom the world was not worthy, who ſubdued Kingdoms, ſtopped the mouths of Lyons, quenched the violence of fire, eſcaped the edge of the ſword?</p>
+            <p>Thou wouldſt fain be ranked amongſt thoſe conquer<g ref="char:EOLhyphen"/>ing Chriſtians: but it muſt be then in ſome unknown Land; for here thy Cowardiſe is ſo well diſcovered, thou canſt not be counted ſuch a Champion as thoſe were.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 384.</note>Thou bids the people, As they have frequented Ordi<g ref="char:EOLhyphen"/>nances, <hi>&amp;c.</hi> ſo do it ſtill: and hold on even till death, and if theſe and the like things make you vile, he would have you be more vile ſtill.</p>
+            <p>
+               <note place="margin">
+                  <hi>P.</hi> 339.</note>Is it not this mans deſign to keep you in darkneſs? does he not deal deceitfully with you? one while telling you, That obſerving the ſoul, and the affairs of it, and Gods dealings with it, will make a man a Divine to himſelf;
+<note place="margin">
+                  <hi>P.</hi> 409.</note>and obſerving a mans courſe well, and how God hath led <pb n="54" facs="tcp:118744:30"/>him, will make a man under God, a guid to himſelf.
+<note place="margin">But he dares not centre here, This Doc<g ref="char:EOLhyphen"/>trine he ſees would un<g ref="char:EOLhyphen"/>rooſt him and all his <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> Generation; Root &amp; Branch: And though they may keep aloft for a little ſeaſon, yet they are not of the Lords planting, and therefore ſhall be rooted up: and ſo ſhall all other Formaliſts, who ſtumble at the light: E<g ref="char:EOLhyphen"/>very knee ſhall bow unto my Jeſus.</note>Here the man ſpeaks plain <hi>Engliſh.</hi> That unleſs you wilfully hood-wink your underſtan<g ref="char:EOLhyphen"/>dings, you may eaſily diſco<g ref="char:EOLhyphen"/>ver, The man is convinced, That if you will but be ſo wiſe, and wary, as to watch over your own ſouls, minding that principle of God within you, which checks and convinces you of ſin, when no eye ſees you, nor eare heares you, this will be a Divine, a Teacher, a true Prophet to eve<g ref="char:EOLhyphen"/>ry one of you. This will ſpeak truth when the falſe Prophet flatters you. The light of Chriſt in your Conſciences is the pure Divine, The true Prophet, the never erring Guid unto all goodneſs, if you will yield obedience thereunto.</p>
+            <p>'Tis the deſire of my ſoul, you may no longer make this Dreamer, nor any of this ſtamp your Darling: Draw back from him; for he is but a painted Sepulchre, what good ſoever he promiſes you; ſhall never be performed: ſo long as his life is in the Letter, he feeds on death: De<g ref="char:EOLhyphen"/>light in that which draws out of ſin unto holineſs, with<g ref="char:EOLhyphen"/>out which no man ſhall ever ſee God.</p>
+            <p>Feed no longer upon the Husks, like Swine. The Pearl of great price is ſet before you. Chriſt Jeſus the light of the world, He is the way, the truth and the life: He is that bread from Heaven, which who ſo feeds on, ſhall ne<g ref="char:EOLhyphen"/>ver hunger: He is that pure water of life, which who ſo drinks of, ſhall never thirſt.</p>
+            <p>The light in your Conſciences, if you love it, will pre<g ref="char:EOLhyphen"/>ſerve you pure and ſpotleſs, and ſtabliſh you in that pure
+<pb n="55" facs="tcp:118744:30"/>Religion, which is undefiled. But if you love
+<hi>Babylon,</hi> and loath the light, my Soul ſhall weep for you in ſecret. Yet remember you have warning in your life-time, prize it.</p>
+            <p>Much more of his filthy Rubbiſh might be gathered up; but here is enough preſented to the ignorant; for whoſe ſake this work was undertaken, which may ſuffici<g ref="char:EOLhyphen"/>ently render this <hi>Romiſh Orator</hi> an
+<hi>Antichriſtian Mi<g ref="char:EOLhyphen"/>niſter.</hi>
+            </p>
+            <closer>
+               <signed>M. M.</signed>
+            </closer>
+            <trailer>An end.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
